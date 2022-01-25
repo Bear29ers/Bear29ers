@@ -2,11 +2,10 @@
 
 ## I'm a Developer, and Designer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning JavaScript and PHP 🤣
+- 👬🏻 I’m looking to collaborate with other content creators 👋🏻
+- 🥅 2022 Goals: Learn JavaScript deeply and Create some projects 💪🏻
+- 🎮 Fun fact: I love to play games
 
 ### Connect with me:
 
@@ -42,3 +41,7 @@
 <br />
 
 ---
+
+[website]: https://
+[Wantedly]: 
+[Instagram]: 
