@@ -8,14 +8,16 @@
 - 🎮 Fun fact: I love to play video games 🎉
 
 <br />
-<br />
 
 ### Connect with me:
 
-[<img align="left" alt="bear27kuma.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://bear27kuma.github.io/)
-[<img align="left" alt="Yuta Okuma | Wantedly" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.wantedly.com/)
+[<img align="left" alt="bear27kuma.com" width="40px" src="https://user-images.githubusercontent.com/39920490/156489586-f125813b-e344-46d6-9306-f5786684b976.jpg" style="margin-right: 20px;" />](https://bear27kuma.github.io/)
+[<img align="left" alt="Yuta Okuma | Wantedly" width="40px" src="https://user-images.githubusercontent.com/39920490/156489528-fdc520d6-10f1-43b6-8bf8-fadf8dcf1a90.jpg" style="margin-right: 20px;" />](https://www.wantedly.com/)
+[<img align="left" alt="Yuta Okuma | Facebook" width="40px" src="https://github.com/github/explore/blob/main/topics/facebook/facebook.png?raw=true" style="margin-right: 20px;" />](https://www.facebook.com/)
 [<img align="left" alt="Yuta Okuma | Instagram" width="40px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png?raw=true" />](https://www.instagram.com/)
 
+<br />
+<br />
 <br />
 <br />
 
@@ -52,8 +54,8 @@
 <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Chrome" width="26px" src="https://github.com/github/explore/blob/main/topics/chrome/chrome.png?raw=true" />
 <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Firefox" width="26px" src="https://github.com/github/explore/blob/main/topics/firefox/firefox.png?raw=true" />
 <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Google App Script" width="26px" src="https://github.com/github/explore/blob/main/topics/google-apps-script/google-apps-script.png?raw=true" />
-<img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="WebStorm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="PhpStorm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="WebStorm" width="26px" src="https://user-images.githubusercontent.com/39920490/156489178-cf6035a1-5f13-4f53-8631-be22dc5f73cf.png" />
+<img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="PhpStorm" width="26px" src="https://user-images.githubusercontent.com/39920490/156489424-8e5504c6-a4ba-4c34-b1f7-52917db53018.png" />
 <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true" />
 <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Atom" width="26px" src="https://github.com/github/explore/blob/main/topics/atom/atom.png?raw=true" />
 <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png?raw=true" />
@@ -62,5 +64,4 @@
 <br />
 <br />
 
----
 
