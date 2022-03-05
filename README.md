@@ -50,6 +50,15 @@
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Vim" width="26px" src="https://github.com/github/explore/blob/main/topics/vim/vim.png?raw=true" />
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Eslint" width="26px" src="https://github.com/github/explore/blob/main/topics/eslint/eslint.png?raw=true" />
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Webpack" width="26px" src="https://github.com/github/explore/blob/main/topics/webpack/webpack.png?raw=true" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Adobe Creative Cloud" width="26px" src="https://user-images.githubusercontent.com/39920490/156873067-49465848-92d8-4d1f-b08f-79c821964b25.png" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Photoshop" width="26px" src="https://user-images.githubusercontent.com/39920490/156873120-d295313e-2b81-4159-84db-e0e4d699c55e.png" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Illustrator" width="26px" src="https://user-images.githubusercontent.com/39920490/156873119-acfff16f-eb82-4d40-ad64-c946fb19da42.png" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Adobe XD" width="26px" src="https://user-images.githubusercontent.com/39920490/156873121-c57d736c-c359-47de-8125-9b6d199100fa.png" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Lightroom Classic" width="26px" src="https://user-images.githubusercontent.com/39920490/156873122-d3ac9b52-d3c0-4f67-ad7c-9c4a43dddfd6.png" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Premiere Pro" width="26px" src="https://user-images.githubusercontent.com/39920490/156873123-dd7079e1-fe88-4027-8e73-4e102f50a757.png" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="AfterEffects" width="26px" src="https://user-images.githubusercontent.com/39920490/156873125-c5c2cd70-1b5d-4b24-8c05-22f1cb3d8228.png" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Media Encoder" width="26px" src="https://user-images.githubusercontent.com/39920490/156873126-546b41f4-e2f6-41ad-8939-acd9f81d6490.png" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Webpack" width="26px" src="https://github.com/github/explore/blob/main/topics/webpack/webpack.png?raw=true" />
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Apple" width="26px" src="https://github.com/github/explore/blob/main/topics/apple/apple.png?raw=true" />
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Mac OS" width="26px" src="https://github.com/github/explore/blob/main/topics/macos/macos.png?raw=true" />
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Chrome" width="26px" src="https://github.com/github/explore/blob/main/topics/chrome/chrome.png?raw=true" />
@@ -60,8 +69,16 @@
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true" />
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Atom" width="26px" src="https://github.com/github/explore/blob/main/topics/atom/atom.png?raw=true" />
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png?raw=true" />
+    <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Slack" width="26px" src="https://user-images.githubusercontent.com/39920490/156873030-f4711901-5783-4f3c-9ed0-818730a9315f.png" />
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="Discord" width="26px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png?raw=true" />
 </div>
+
+<br />
+<br />
+
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br />
 <br />
