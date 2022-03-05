@@ -9,7 +9,7 @@
 
 <br />
 
-### Connect with me:
+### :wave: Connect with me:
 
 [<img align="left" alt="bear27kuma.com" width="40px" src="https://user-images.githubusercontent.com/39920490/156489586-f125813b-e344-46d6-9306-f5786684b976.jpg" style="margin-right: 20px;" />](https://bear27kuma.github.io/)
 [<img align="left" alt="Yuta Okuma | Wantedly" width="40px" src="https://user-images.githubusercontent.com/39920490/156489528-fdc520d6-10f1-43b6-8bf8-fadf8dcf1a90.jpg" style="margin-right: 20px;" />](https://www.wantedly.com/id/yuta_okuma_b)
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
 <div style="display:flex; flex-wrap: wrap; row-gap: 12px; column-gap: 10px;">
     <img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" />
@@ -76,15 +76,28 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Bear27kuma/Bear27kuma/pull/1) in [Bear27kuma/Bear27kuma](https://github.com/Bear27kuma/Bear27kuma)
+2. 💪 Opened PR [#1](https://github.com/Bear27kuma/Bear27kuma/pull/1) in [Bear27kuma/Bear27kuma](https://github.com/Bear27kuma/Bear27kuma)
+3. 🎉 Merged PR [#13](https://github.com/Bear27kuma/user-management-system/pull/13) in [Bear27kuma/user-management-system](https://github.com/Bear27kuma/user-management-system)
+4. 💪 Opened PR [#13](https://github.com/Bear27kuma/user-management-system/pull/13) in [Bear27kuma/user-management-system](https://github.com/Bear27kuma/user-management-system)
+5. 🎉 Merged PR [#12](https://github.com/Bear27kuma/user-management-system/pull/12) in [Bear27kuma/user-management-system](https://github.com/Bear27kuma/user-management-system)
+6. 💪 Opened PR [#12](https://github.com/Bear27kuma/user-management-system/pull/12) in [Bear27kuma/user-management-system](https://github.com/Bear27kuma/user-management-system)
+7. 🎉 Merged PR [#11](https://github.com/Bear27kuma/user-management-system/pull/11) in [Bear27kuma/user-management-system](https://github.com/Bear27kuma/user-management-system)
+8. 💪 Opened PR [#11](https://github.com/Bear27kuma/user-management-system/pull/11) in [Bear27kuma/user-management-system](https://github.com/Bear27kuma/user-management-system)
+9. 🎉 Merged PR [#10](https://github.com/Bear27kuma/user-management-system/pull/10) in [Bear27kuma/user-management-system](https://github.com/Bear27kuma/user-management-system)
+10. 💪 Opened PR [#10](https://github.com/Bear27kuma/user-management-system/pull/10) in [Bear27kuma/user-management-system](https://github.com/Bear27kuma/user-management-system)
 <!--END_SECTION:activity-->
 
 <br />
 <br />
 
-### GitHub Stats
+### :chart_with_upwards_trend: GitHub Stats
 <div style="display: flex;">
     <a href="https://github.com/Bear27kuma">
         <img height="200px;" src="https://github-readme-stats.vercel.app/api?username=Bear27kuma&show_icons=true&theme=bear">
