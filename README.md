@@ -23,7 +23,7 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 
-<div style="display:flex; flex-wrap: wrap; row-gap: 12px; column-gap: 10px;">
+<div style="display:flex; flex-wrap: wrap; gap: 12px;">
     <img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" />
     <img align="left" alt="CSS3" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" />
     <img align="left" alt="Sass" width="26px" src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true" />
