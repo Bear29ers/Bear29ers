@@ -9,7 +9,7 @@
 
 <br />
 
-### Connect with me:
+### :wave: Connect with me:
 
 [<img align="left" alt="bear27kuma.com" width="40px" src="https://user-images.githubusercontent.com/39920490/156489586-f125813b-e344-46d6-9306-f5786684b976.jpg" style="margin-right: 20px;" />](https://bear27kuma.github.io/)
 [<img align="left" alt="Yuta Okuma | Wantedly" width="40px" src="https://user-images.githubusercontent.com/39920490/156489528-fdc520d6-10f1-43b6-8bf8-fadf8dcf1a90.jpg" style="margin-right: 20px;" />](https://www.wantedly.com/id/yuta_okuma_b)
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
 <div style="display:flex; flex-wrap: wrap;">
     <img align="left" style="margin-right: 10px; margin-bottom: 12px;" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" />
@@ -78,6 +78,7 @@
 <br />
 <br />
 <br />
+<br />
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
@@ -96,7 +97,7 @@
 <br />
 <br />
 
-### GitHub Stats
+### :chart_with_upwards_trend: GitHub Stats
 <div style="display: flex;">
     <a href="https://github.com/Bear27kuma">
         <img height="200px;" src="https://github-readme-stats.vercel.app/api?username=Bear27kuma&show_icons=true&theme=bear">
