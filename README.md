@@ -12,9 +12,9 @@
 ### Connect with me:
 
 [<img align="left" alt="bear27kuma.com" width="40px" src="https://user-images.githubusercontent.com/39920490/156489586-f125813b-e344-46d6-9306-f5786684b976.jpg" style="margin-right: 20px;" />](https://bear27kuma.github.io/)
-[<img align="left" alt="Yuta Okuma | Wantedly" width="40px" src="https://user-images.githubusercontent.com/39920490/156489528-fdc520d6-10f1-43b6-8bf8-fadf8dcf1a90.jpg" style="margin-right: 20px;" />](https://www.wantedly.com/)
-[<img align="left" alt="Yuta Okuma | Facebook" width="40px" src="https://github.com/github/explore/blob/main/topics/facebook/facebook.png?raw=true" style="margin-right: 20px;" />](https://www.facebook.com/)
-[<img align="left" alt="Yuta Okuma | Instagram" width="40px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png?raw=true" />](https://www.instagram.com/)
+[<img align="left" alt="Yuta Okuma | Wantedly" width="40px" src="https://user-images.githubusercontent.com/39920490/156489528-fdc520d6-10f1-43b6-8bf8-fadf8dcf1a90.jpg" style="margin-right: 20px;" />](https://www.wantedly.com/id/yuta_okuma_b)
+[<img align="left" alt="Yuta Okuma | Facebook" width="40px" src="https://github.com/github/explore/blob/main/topics/facebook/facebook.png?raw=true" style="margin-right: 20px;" />](https://www.facebook.com/kumakuma1129/)
+[<img align="left" alt="Yuta Okuma | Instagram" width="40px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png?raw=true" />](https://www.instagram.com/bear_27earl/)
 
 <br />
 <br />
