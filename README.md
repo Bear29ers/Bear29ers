@@ -75,8 +75,9 @@
 
 <br />
 <br />
+<br />
 
-### Recent Activity
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
