@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/Bear27kuma/go-tour/pull/14) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
-2. 💪 Opened PR [#13](https://github.com/Bear27kuma/go-tour/pull/13) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
-3. 🎉 Merged PR [#10](https://github.com/Bear27kuma/ts-basic/pull/10) in [Bear27kuma/ts-basic](https://github.com/Bear27kuma/ts-basic)
-4. 🎉 Merged PR [#9](https://github.com/Bear27kuma/ts-basic/pull/9) in [Bear27kuma/ts-basic](https://github.com/Bear27kuma/ts-basic)
-5. 💪 Opened PR [#10](https://github.com/Bear27kuma/ts-basic/pull/10) in [Bear27kuma/ts-basic](https://github.com/Bear27kuma/ts-basic)
-6. 💪 Opened PR [#9](https://github.com/Bear27kuma/ts-basic/pull/9) in [Bear27kuma/ts-basic](https://github.com/Bear27kuma/ts-basic)
-7. 🎉 Merged PR [#8](https://github.com/Bear27kuma/ts-basic/pull/8) in [Bear27kuma/ts-basic](https://github.com/Bear27kuma/ts-basic)
-8. 🎉 Merged PR [#7](https://github.com/Bear27kuma/ts-basic/pull/7) in [Bear27kuma/ts-basic](https://github.com/Bear27kuma/ts-basic)
-9. 🎉 Merged PR [#6](https://github.com/Bear27kuma/ts-basic/pull/6) in [Bear27kuma/ts-basic](https://github.com/Bear27kuma/ts-basic)
-10. 🎉 Merged PR [#5](https://github.com/Bear27kuma/ts-basic/pull/5) in [Bear27kuma/ts-basic](https://github.com/Bear27kuma/ts-basic)
+1. ❌ Closed PR [#14](https://github.com/Bear27kuma/go-tour/pull/14) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+2. ❌ Closed PR [#13](https://github.com/Bear27kuma/go-tour/pull/13) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+3. ❌ Closed PR [#12](https://github.com/Bear27kuma/go-tour/pull/12) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+4. ❌ Closed PR [#11](https://github.com/Bear27kuma/go-tour/pull/11) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+5. ❌ Closed PR [#10](https://github.com/Bear27kuma/go-tour/pull/10) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+6. ❌ Closed PR [#5](https://github.com/Bear27kuma/go-tour/pull/5) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+7. ❌ Closed PR [#9](https://github.com/Bear27kuma/go-tour/pull/9) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+8. ❌ Closed PR [#3](https://github.com/Bear27kuma/go-tour/pull/3) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+9. ❌ Closed PR [#8](https://github.com/Bear27kuma/go-tour/pull/8) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+10. ❌ Closed PR [#4](https://github.com/Bear27kuma/go-tour/pull/4) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
 <!--END_SECTION:activity-->
 
 <br />
