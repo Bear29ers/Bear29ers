@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Bear27kuma/js-mechanism/pull/3) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-2. 💪 Opened PR [#3](https://github.com/Bear27kuma/js-mechanism/pull/3) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-3. 🎉 Merged PR [#2](https://github.com/Bear27kuma/js-mechanism/pull/2) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-4. 💪 Opened PR [#2](https://github.com/Bear27kuma/js-mechanism/pull/2) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-5. 🎉 Merged PR [#1](https://github.com/Bear27kuma/js-mechanism/pull/1) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-6. 💪 Opened PR [#1](https://github.com/Bear27kuma/js-mechanism/pull/1) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-7. 🎉 Merged PR [#1](https://github.com/Bear27kuma/go-tour/pull/1) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
-8. 💪 Opened PR [#1](https://github.com/Bear27kuma/go-tour/pull/1) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
-9. 🎉 Merged PR [#1](https://github.com/Bear27kuma/react-basic/pull/1) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
-10. 💪 Opened PR [#1](https://github.com/Bear27kuma/react-basic/pull/1) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
+1. 🎉 Merged PR [#2](https://github.com/Bear27kuma/react-basic/pull/2) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
+2. 💪 Opened PR [#2](https://github.com/Bear27kuma/react-basic/pull/2) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
+3. 🎉 Merged PR [#3](https://github.com/Bear27kuma/js-mechanism/pull/3) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+4. 💪 Opened PR [#3](https://github.com/Bear27kuma/js-mechanism/pull/3) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+5. 🎉 Merged PR [#2](https://github.com/Bear27kuma/js-mechanism/pull/2) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+6. 💪 Opened PR [#2](https://github.com/Bear27kuma/js-mechanism/pull/2) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+7. 🎉 Merged PR [#1](https://github.com/Bear27kuma/js-mechanism/pull/1) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+8. 💪 Opened PR [#1](https://github.com/Bear27kuma/js-mechanism/pull/1) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+9. 🎉 Merged PR [#1](https://github.com/Bear27kuma/go-tour/pull/1) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
+10. 💪 Opened PR [#1](https://github.com/Bear27kuma/go-tour/pull/1) in [Bear27kuma/go-tour](https://github.com/Bear27kuma/go-tour)
 <!--END_SECTION:activity-->
 
 <br />
