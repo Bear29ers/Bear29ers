@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Bear27kuma/ts-pokedex/pull/2) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
-2. 💪 Opened PR [#2](https://github.com/Bear27kuma/ts-pokedex/pull/2) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
-3. 🎉 Merged PR [#1](https://github.com/Bear27kuma/ts-pokedex/pull/1) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
-4. 💪 Opened PR [#1](https://github.com/Bear27kuma/ts-pokedex/pull/1) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
+1. 🎉 Merged PR [#4](https://github.com/Bear27kuma/ts-pokedex/pull/4) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
+2. 💪 Opened PR [#4](https://github.com/Bear27kuma/ts-pokedex/pull/4) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
+3. 🎉 Merged PR [#3](https://github.com/Bear27kuma/ts-pokedex/pull/3) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
+4. 💪 Opened PR [#3](https://github.com/Bear27kuma/ts-pokedex/pull/3) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
 5. 🎉 Merged PR [#2](https://github.com/Bear27kuma/ts-pokedex/pull/2) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
 6. 💪 Opened PR [#2](https://github.com/Bear27kuma/ts-pokedex/pull/2) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
 7. 🎉 Merged PR [#1](https://github.com/Bear27kuma/ts-pokedex/pull/1) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
 8. 💪 Opened PR [#1](https://github.com/Bear27kuma/ts-pokedex/pull/1) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
-9. 🎉 Merged PR [#3](https://github.com/Bear27kuma/react-basic/pull/3) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
-10. 💪 Opened PR [#3](https://github.com/Bear27kuma/react-basic/pull/3) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
+9. 🎉 Merged PR [#2](https://github.com/Bear27kuma/ts-pokedex/pull/2) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
+10. 💪 Opened PR [#2](https://github.com/Bear27kuma/ts-pokedex/pull/2) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
 <!--END_SECTION:activity-->
 
 <br />
