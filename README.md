@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Bear27kuma/js-mechanism/pull/6) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-2. 💪 Opened PR [#6](https://github.com/Bear27kuma/js-mechanism/pull/6) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-3. 🎉 Merged PR [#4](https://github.com/Bear27kuma/react-basic/pull/4) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
-4. 💪 Opened PR [#4](https://github.com/Bear27kuma/react-basic/pull/4) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
-5. 🎉 Merged PR [#5](https://github.com/Bear27kuma/js-mechanism/pull/5) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-6. 💪 Opened PR [#5](https://github.com/Bear27kuma/js-mechanism/pull/5) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-7. 🎉 Merged PR [#4](https://github.com/Bear27kuma/js-mechanism/pull/4) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-8. 💪 Opened PR [#4](https://github.com/Bear27kuma/js-mechanism/pull/4) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-9. 🎉 Merged PR [#8](https://github.com/Bear27kuma/ts-pokedex/pull/8) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
-10. 💪 Opened PR [#8](https://github.com/Bear27kuma/ts-pokedex/pull/8) in [Bear27kuma/ts-pokedex](https://github.com/Bear27kuma/ts-pokedex)
+1. 🎉 Merged PR [#7](https://github.com/Bear27kuma/js-mechanism/pull/7) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+2. 💪 Opened PR [#7](https://github.com/Bear27kuma/js-mechanism/pull/7) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+3. 🎉 Merged PR [#6](https://github.com/Bear27kuma/js-mechanism/pull/6) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+4. 💪 Opened PR [#6](https://github.com/Bear27kuma/js-mechanism/pull/6) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+5. 🎉 Merged PR [#4](https://github.com/Bear27kuma/react-basic/pull/4) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
+6. 💪 Opened PR [#4](https://github.com/Bear27kuma/react-basic/pull/4) in [Bear27kuma/react-basic](https://github.com/Bear27kuma/react-basic)
+7. 🎉 Merged PR [#5](https://github.com/Bear27kuma/js-mechanism/pull/5) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+8. 💪 Opened PR [#5](https://github.com/Bear27kuma/js-mechanism/pull/5) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+9. 🎉 Merged PR [#4](https://github.com/Bear27kuma/js-mechanism/pull/4) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+10. 💪 Opened PR [#4](https://github.com/Bear27kuma/js-mechanism/pull/4) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
 <!--END_SECTION:activity-->
 
 <br />
