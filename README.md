@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Bear27kuma/udemy-js-basic/pull/1) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
-2. 💪 Opened PR [#1](https://github.com/Bear27kuma/udemy-js-basic/pull/1) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
-3. 🎉 Merged PR [#1](https://github.com/Bear27kuma/modern-js-react/pull/1) in [Bear27kuma/modern-js-react](https://github.com/Bear27kuma/modern-js-react)
-4. 💪 Opened PR [#1](https://github.com/Bear27kuma/modern-js-react/pull/1) in [Bear27kuma/modern-js-react](https://github.com/Bear27kuma/modern-js-react)
-5. 🎉 Merged PR [#9](https://github.com/Bear27kuma/js-mechanism/pull/9) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-6. 💪 Opened PR [#9](https://github.com/Bear27kuma/js-mechanism/pull/9) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-7. 🎉 Merged PR [#8](https://github.com/Bear27kuma/js-mechanism/pull/8) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-8. 💪 Opened PR [#8](https://github.com/Bear27kuma/js-mechanism/pull/8) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-9. 🎉 Merged PR [#7](https://github.com/Bear27kuma/js-mechanism/pull/7) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
-10. 💪 Opened PR [#7](https://github.com/Bear27kuma/js-mechanism/pull/7) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+1. 🎉 Merged PR [#2](https://github.com/Bear27kuma/udemy-js-basic/pull/2) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
+2. 💪 Opened PR [#2](https://github.com/Bear27kuma/udemy-js-basic/pull/2) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
+3. ❌ Closed PR [#1](https://github.com/Bear27kuma/udemy-js-basic/pull/1) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
+4. 💪 Opened PR [#1](https://github.com/Bear27kuma/udemy-js-basic/pull/1) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
+5. 🎉 Merged PR [#1](https://github.com/Bear27kuma/modern-js-react/pull/1) in [Bear27kuma/modern-js-react](https://github.com/Bear27kuma/modern-js-react)
+6. 💪 Opened PR [#1](https://github.com/Bear27kuma/modern-js-react/pull/1) in [Bear27kuma/modern-js-react](https://github.com/Bear27kuma/modern-js-react)
+7. 🎉 Merged PR [#9](https://github.com/Bear27kuma/js-mechanism/pull/9) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+8. 💪 Opened PR [#9](https://github.com/Bear27kuma/js-mechanism/pull/9) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+9. 🎉 Merged PR [#8](https://github.com/Bear27kuma/js-mechanism/pull/8) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
+10. 💪 Opened PR [#8](https://github.com/Bear27kuma/js-mechanism/pull/8) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
 <!--END_SECTION:activity-->
 
 <br />
