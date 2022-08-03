@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Bear27kuma/udemy-js-basic/pull/4) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
-2. 💪 Opened PR [#4](https://github.com/Bear27kuma/udemy-js-basic/pull/4) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
-3. 🎉 Merged PR [#5](https://github.com/Bear27kuma/udemy-react-basic/pull/5) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
-4. 💪 Opened PR [#5](https://github.com/Bear27kuma/udemy-react-basic/pull/5) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
-5. 🎉 Merged PR [#4](https://github.com/Bear27kuma/udemy-react-basic/pull/4) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
-6. 💪 Opened PR [#4](https://github.com/Bear27kuma/udemy-react-basic/pull/4) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
-7. 🎉 Merged PR [#3](https://github.com/Bear27kuma/udemy-react-basic/pull/3) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
-8. 💪 Opened PR [#3](https://github.com/Bear27kuma/udemy-react-basic/pull/3) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
-9. 🎉 Merged PR [#2](https://github.com/Bear27kuma/udemy-react-basic/pull/2) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
-10. 💪 Opened PR [#2](https://github.com/Bear27kuma/udemy-react-basic/pull/2) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
+1. 🎉 Merged PR [#1](https://github.com/Bear27kuma/udemy-react-advanced/pull/1) in [Bear27kuma/udemy-react-advanced](https://github.com/Bear27kuma/udemy-react-advanced)
+2. 💪 Opened PR [#1](https://github.com/Bear27kuma/udemy-react-advanced/pull/1) in [Bear27kuma/udemy-react-advanced](https://github.com/Bear27kuma/udemy-react-advanced)
+3. 🎉 Merged PR [#4](https://github.com/Bear27kuma/udemy-js-basic/pull/4) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
+4. 💪 Opened PR [#4](https://github.com/Bear27kuma/udemy-js-basic/pull/4) in [Bear27kuma/udemy-js-basic](https://github.com/Bear27kuma/udemy-js-basic)
+5. 🎉 Merged PR [#5](https://github.com/Bear27kuma/udemy-react-basic/pull/5) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
+6. 💪 Opened PR [#5](https://github.com/Bear27kuma/udemy-react-basic/pull/5) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
+7. 🎉 Merged PR [#4](https://github.com/Bear27kuma/udemy-react-basic/pull/4) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
+8. 💪 Opened PR [#4](https://github.com/Bear27kuma/udemy-react-basic/pull/4) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
+9. 🎉 Merged PR [#3](https://github.com/Bear27kuma/udemy-react-basic/pull/3) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
+10. 💪 Opened PR [#3](https://github.com/Bear27kuma/udemy-react-basic/pull/3) in [Bear27kuma/udemy-react-basic](https://github.com/Bear27kuma/udemy-react-basic)
 <!--END_SECTION:activity-->
 
 <br />
