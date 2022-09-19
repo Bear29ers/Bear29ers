@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Bear29ers/react-user-management/pull/5) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-2. 💪 Opened PR [#5](https://github.com/Bear29ers/react-user-management/pull/5) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-3. 🎉 Merged PR [#2](https://github.com/Bear29ers/webpack-setup/pull/2) in [Bear29ers/webpack-setup](https://github.com/Bear29ers/webpack-setup)
-4. 💪 Opened PR [#2](https://github.com/Bear29ers/webpack-setup/pull/2) in [Bear29ers/webpack-setup](https://github.com/Bear29ers/webpack-setup)
-5. 🎉 Merged PR [#4](https://github.com/Bear29ers/react-user-management/pull/4) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-6. 💪 Opened PR [#4](https://github.com/Bear29ers/react-user-management/pull/4) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-7. 🎉 Merged PR [#3](https://github.com/Bear29ers/react-user-management/pull/3) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-8. 💪 Opened PR [#3](https://github.com/Bear29ers/react-user-management/pull/3) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-9. 🎉 Merged PR [#2](https://github.com/Bear29ers/react-user-management/pull/2) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-10. 💪 Opened PR [#2](https://github.com/Bear29ers/react-user-management/pull/2) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+1. 🎉 Merged PR [#6](https://github.com/Bear29ers/react-user-management/pull/6) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+2. 💪 Opened PR [#6](https://github.com/Bear29ers/react-user-management/pull/6) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+3. 🎉 Merged PR [#5](https://github.com/Bear29ers/react-user-management/pull/5) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+4. 💪 Opened PR [#5](https://github.com/Bear29ers/react-user-management/pull/5) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+5. 🎉 Merged PR [#2](https://github.com/Bear29ers/webpack-setup/pull/2) in [Bear29ers/webpack-setup](https://github.com/Bear29ers/webpack-setup)
+6. 💪 Opened PR [#2](https://github.com/Bear29ers/webpack-setup/pull/2) in [Bear29ers/webpack-setup](https://github.com/Bear29ers/webpack-setup)
+7. 🎉 Merged PR [#4](https://github.com/Bear29ers/react-user-management/pull/4) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+8. 💪 Opened PR [#4](https://github.com/Bear29ers/react-user-management/pull/4) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+9. 🎉 Merged PR [#3](https://github.com/Bear29ers/react-user-management/pull/3) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+10. 💪 Opened PR [#3](https://github.com/Bear29ers/react-user-management/pull/3) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
 <!--END_SECTION:activity-->
 
 <br />
