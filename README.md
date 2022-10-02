@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Bear29ers/react-user-management/pull/8) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-2. 💪 Opened PR [#8](https://github.com/Bear29ers/react-user-management/pull/8) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-3. 🎉 Merged PR [#8](https://github.com/Bear29ers/dotfiles/pull/8) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-4. 💪 Opened PR [#8](https://github.com/Bear29ers/dotfiles/pull/8) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-5. 🎉 Merged PR [#7](https://github.com/Bear29ers/dotfiles/pull/7) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-6. 💪 Opened PR [#7](https://github.com/Bear29ers/dotfiles/pull/7) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-7. 🎉 Merged PR [#7](https://github.com/Bear29ers/react-user-management/pull/7) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-8. 💪 Opened PR [#7](https://github.com/Bear29ers/react-user-management/pull/7) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-9. 🎉 Merged PR [#6](https://github.com/Bear29ers/dotfiles/pull/6) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-10. 💪 Opened PR [#6](https://github.com/Bear29ers/dotfiles/pull/6) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+1. 🗣 Commented on [#547](https://github.com/glepnir/lspsaga.nvim/issues/547) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
+2. ❗️ Opened issue [#547](https://github.com/glepnir/lspsaga.nvim/issues/547) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
+3. 🎉 Merged PR [#8](https://github.com/Bear29ers/react-user-management/pull/8) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+4. 💪 Opened PR [#8](https://github.com/Bear29ers/react-user-management/pull/8) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+5. 🎉 Merged PR [#8](https://github.com/Bear29ers/dotfiles/pull/8) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+6. 💪 Opened PR [#8](https://github.com/Bear29ers/dotfiles/pull/8) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+7. 🎉 Merged PR [#7](https://github.com/Bear29ers/dotfiles/pull/7) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+8. 💪 Opened PR [#7](https://github.com/Bear29ers/dotfiles/pull/7) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+9. 🎉 Merged PR [#7](https://github.com/Bear29ers/react-user-management/pull/7) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+10. 💪 Opened PR [#7](https://github.com/Bear29ers/react-user-management/pull/7) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
 <!--END_SECTION:activity-->
 
 <br />
