@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bear29ers/complete-react/pull/1) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
-2. 💪 Opened PR [#1](https://github.com/Bear29ers/complete-react/pull/1) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
-3. 🎉 Merged PR [#9](https://github.com/Bear29ers/dotfiles/pull/9) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-4. 💪 Opened PR [#9](https://github.com/Bear29ers/dotfiles/pull/9) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-5. 🗣 Commented on [#547](https://github.com/glepnir/lspsaga.nvim/issues/547) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
-6. ❗️ Opened issue [#547](https://github.com/glepnir/lspsaga.nvim/issues/547) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
-7. 🎉 Merged PR [#8](https://github.com/Bear29ers/react-user-management/pull/8) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-8. 💪 Opened PR [#8](https://github.com/Bear29ers/react-user-management/pull/8) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
-9. 🎉 Merged PR [#8](https://github.com/Bear29ers/dotfiles/pull/8) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-10. 💪 Opened PR [#8](https://github.com/Bear29ers/dotfiles/pull/8) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+1. 🎉 Merged PR [#1](https://github.com/Bear29ers/locomotive-site/pull/1) in [Bear29ers/locomotive-site](https://github.com/Bear29ers/locomotive-site)
+2. 💪 Opened PR [#1](https://github.com/Bear29ers/locomotive-site/pull/1) in [Bear29ers/locomotive-site](https://github.com/Bear29ers/locomotive-site)
+3. 🎉 Merged PR [#1](https://github.com/Bear29ers/complete-react/pull/1) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+4. 💪 Opened PR [#1](https://github.com/Bear29ers/complete-react/pull/1) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+5. 🎉 Merged PR [#9](https://github.com/Bear29ers/dotfiles/pull/9) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+6. 💪 Opened PR [#9](https://github.com/Bear29ers/dotfiles/pull/9) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+7. 🗣 Commented on [#547](https://github.com/glepnir/lspsaga.nvim/issues/547) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
+8. ❗️ Opened issue [#547](https://github.com/glepnir/lspsaga.nvim/issues/547) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
+9. 🎉 Merged PR [#8](https://github.com/Bear29ers/react-user-management/pull/8) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
+10. 💪 Opened PR [#8](https://github.com/Bear29ers/react-user-management/pull/8) in [Bear29ers/react-user-management](https://github.com/Bear29ers/react-user-management)
 <!--END_SECTION:activity-->
 
 <br />
