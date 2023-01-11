@@ -82,16 +82,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Bear29ers/hands-on-website/pull/2) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
-2. 💪 Opened PR [#2](https://github.com/Bear29ers/hands-on-website/pull/2) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
-3. 🎉 Merged PR [#1](https://github.com/Bear29ers/hands-on-website/pull/1) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
-4. 💪 Opened PR [#1](https://github.com/Bear29ers/hands-on-website/pull/1) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
+1. 🎉 Merged PR [#3](https://github.com/Bear29ers/next-js/pull/3) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
+2. 💪 Opened PR [#3](https://github.com/Bear29ers/next-js/pull/3) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
+3. 🎉 Merged PR [#2](https://github.com/Bear29ers/hands-on-website/pull/2) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
+4. 💪 Opened PR [#2](https://github.com/Bear29ers/hands-on-website/pull/2) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
 5. 🎉 Merged PR [#1](https://github.com/Bear29ers/hands-on-website/pull/1) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
 6. 💪 Opened PR [#1](https://github.com/Bear29ers/hands-on-website/pull/1) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
-7. 🎉 Merged PR [#18](https://github.com/Bear29ers/complete-react/pull/18) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
-8. 💪 Opened PR [#18](https://github.com/Bear29ers/complete-react/pull/18) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
-9. 🎉 Merged PR [#2](https://github.com/Bear29ers/next-js/pull/2) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
-10. 💪 Opened PR [#2](https://github.com/Bear29ers/next-js/pull/2) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
+7. 🎉 Merged PR [#1](https://github.com/Bear29ers/hands-on-website/pull/1) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
+8. 💪 Opened PR [#1](https://github.com/Bear29ers/hands-on-website/pull/1) in [Bear29ers/hands-on-website](https://github.com/Bear29ers/hands-on-website)
+9. 🎉 Merged PR [#18](https://github.com/Bear29ers/complete-react/pull/18) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+10. 💪 Opened PR [#18](https://github.com/Bear29ers/complete-react/pull/18) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
 <!--END_SECTION:activity-->
 
 <br />
