@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Bear29ers/Bear29ers/pull/2) in [Bear29ers/Bear29ers](https://github.com/Bear29ers/Bear29ers)
-2. 💪 Opened PR [#2](https://github.com/Bear29ers/Bear29ers/pull/2) in [Bear29ers/Bear29ers](https://github.com/Bear29ers/Bear29ers)
-3. 🎉 Merged PR [#5](https://github.com/Bear29ers/next-js/pull/5) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
-4. 💪 Opened PR [#5](https://github.com/Bear29ers/next-js/pull/5) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
-5. 🎉 Merged PR [#2](https://github.com/Bear29ers/nextjs-blog/pull/2) in [Bear29ers/nextjs-blog](https://github.com/Bear29ers/nextjs-blog)
-6. 💪 Opened PR [#2](https://github.com/Bear29ers/nextjs-blog/pull/2) in [Bear29ers/nextjs-blog](https://github.com/Bear29ers/nextjs-blog)
-7. 🎉 Merged PR [#1](https://github.com/Bear29ers/nextjs-blog/pull/1) in [Bear29ers/nextjs-blog](https://github.com/Bear29ers/nextjs-blog)
-8. 💪 Opened PR [#1](https://github.com/Bear29ers/nextjs-blog/pull/1) in [Bear29ers/nextjs-blog](https://github.com/Bear29ers/nextjs-blog)
-9. 🎉 Merged PR [#4](https://github.com/Bear29ers/next-js/pull/4) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
-10. 💪 Opened PR [#4](https://github.com/Bear29ers/next-js/pull/4) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
+1. 🎉 Merged PR [#19](https://github.com/Bear29ers/complete-react/pull/19) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+2. 💪 Opened PR [#19](https://github.com/Bear29ers/complete-react/pull/19) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+3. 🎉 Merged PR [#2](https://github.com/Bear29ers/Bear29ers/pull/2) in [Bear29ers/Bear29ers](https://github.com/Bear29ers/Bear29ers)
+4. 💪 Opened PR [#2](https://github.com/Bear29ers/Bear29ers/pull/2) in [Bear29ers/Bear29ers](https://github.com/Bear29ers/Bear29ers)
+5. 🎉 Merged PR [#5](https://github.com/Bear29ers/next-js/pull/5) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
+6. 💪 Opened PR [#5](https://github.com/Bear29ers/next-js/pull/5) in [Bear29ers/next-js](https://github.com/Bear29ers/next-js)
+7. 🎉 Merged PR [#2](https://github.com/Bear29ers/nextjs-blog/pull/2) in [Bear29ers/nextjs-blog](https://github.com/Bear29ers/nextjs-blog)
+8. 💪 Opened PR [#2](https://github.com/Bear29ers/nextjs-blog/pull/2) in [Bear29ers/nextjs-blog](https://github.com/Bear29ers/nextjs-blog)
+9. 🎉 Merged PR [#1](https://github.com/Bear29ers/nextjs-blog/pull/1) in [Bear29ers/nextjs-blog](https://github.com/Bear29ers/nextjs-blog)
+10. 💪 Opened PR [#1](https://github.com/Bear29ers/nextjs-blog/pull/1) in [Bear29ers/nextjs-blog](https://github.com/Bear29ers/nextjs-blog)
 
 <!--END_SECTION:activity-->
 
