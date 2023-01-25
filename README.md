@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/Bear29ers/complete-react/pull/21) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
-2. 💪 Opened PR [#21](https://github.com/Bear29ers/complete-react/pull/21) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
-3. 🎉 Merged PR [#2](https://github.com/Bear29ers/bear29ers.com/pull/2) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-4. 🎉 Merged PR [#20](https://github.com/Bear29ers/complete-react/pull/20) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
-5. 💪 Opened PR [#20](https://github.com/Bear29ers/complete-react/pull/20) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
-6. 💪 Opened PR [#2](https://github.com/Bear29ers/bear29ers.com/pull/2) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-7. 🎉 Merged PR [#1](https://github.com/Bear29ers/bear29ers.com/pull/1) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-8. 💪 Opened PR [#1](https://github.com/Bear29ers/bear29ers.com/pull/1) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-9. 🎉 Merged PR [#2](https://github.com/Bear29ers/blog/pull/2) in [Bear29ers/blog](https://github.com/Bear29ers/blog)
-10. 💪 Opened PR [#2](https://github.com/Bear29ers/blog/pull/2) in [Bear29ers/blog](https://github.com/Bear29ers/blog)
+1. 🎉 Merged PR [#3](https://github.com/Bear29ers/bear29ers.com/pull/3) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+2. 💪 Opened PR [#3](https://github.com/Bear29ers/bear29ers.com/pull/3) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+3. 🎉 Merged PR [#21](https://github.com/Bear29ers/complete-react/pull/21) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+4. 💪 Opened PR [#21](https://github.com/Bear29ers/complete-react/pull/21) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+5. 🎉 Merged PR [#2](https://github.com/Bear29ers/bear29ers.com/pull/2) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+6. 🎉 Merged PR [#20](https://github.com/Bear29ers/complete-react/pull/20) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+7. 💪 Opened PR [#20](https://github.com/Bear29ers/complete-react/pull/20) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+8. 💪 Opened PR [#2](https://github.com/Bear29ers/bear29ers.com/pull/2) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+9. 🎉 Merged PR [#1](https://github.com/Bear29ers/bear29ers.com/pull/1) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+10. 💪 Opened PR [#1](https://github.com/Bear29ers/bear29ers.com/pull/1) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 
 <!--END_SECTION:activity-->
 
