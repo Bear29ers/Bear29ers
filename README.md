@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/Bear29ers/framer-motion/pull/3) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
-2. 💪 Opened PR [#3](https://github.com/Bear29ers/framer-motion/pull/3) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
-3. 🎉 Merged PR [#2](https://github.com/Bear29ers/framer-motion/pull/2) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
-4. 💪 Opened PR [#2](https://github.com/Bear29ers/framer-motion/pull/2) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
-5. 🎉 Merged PR [#1](https://github.com/Bear29ers/framer-motion/pull/1) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
-6. 💪 Opened PR [#1](https://github.com/Bear29ers/framer-motion/pull/1) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
-7. 💪 Opened PR [#4](https://github.com/Bear29ers/bear29ers.com/pull/4) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-8. 🎉 Merged PR [#3](https://github.com/Bear29ers/bear29ers.com/pull/3) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-9. 💪 Opened PR [#3](https://github.com/Bear29ers/bear29ers.com/pull/3) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-10. 🎉 Merged PR [#21](https://github.com/Bear29ers/complete-react/pull/21) in [Bear29ers/complete-react](https://github.com/Bear29ers/complete-react)
+1. 💪 Opened PR [#1](https://github.com/Bear29ers/primer-three/pull/1) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+2. 🎉 Merged PR [#3](https://github.com/Bear29ers/framer-motion/pull/3) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
+3. 💪 Opened PR [#3](https://github.com/Bear29ers/framer-motion/pull/3) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
+4. 🎉 Merged PR [#2](https://github.com/Bear29ers/framer-motion/pull/2) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
+5. 💪 Opened PR [#2](https://github.com/Bear29ers/framer-motion/pull/2) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
+6. 🎉 Merged PR [#1](https://github.com/Bear29ers/framer-motion/pull/1) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
+7. 💪 Opened PR [#1](https://github.com/Bear29ers/framer-motion/pull/1) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
+8. 💪 Opened PR [#4](https://github.com/Bear29ers/bear29ers.com/pull/4) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+9. 🎉 Merged PR [#3](https://github.com/Bear29ers/bear29ers.com/pull/3) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+10. 💪 Opened PR [#3](https://github.com/Bear29ers/bear29ers.com/pull/3) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 
 <!--END_SECTION:activity-->
 
