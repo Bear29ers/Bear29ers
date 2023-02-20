@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/Bear29ers/dotfiles/pull/14) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-2. 💪 Opened PR [#14](https://github.com/Bear29ers/dotfiles/pull/14) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-3. 🎉 Merged PR [#13](https://github.com/Bear29ers/dotfiles/pull/13) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-4. 🎉 Merged PR [#4](https://github.com/Bear29ers/framer-motion/pull/4) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
-5. 💪 Opened PR [#4](https://github.com/Bear29ers/framer-motion/pull/4) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
-6. 💪 Opened PR [#13](https://github.com/Bear29ers/dotfiles/pull/13) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-7. 🎉 Merged PR [#12](https://github.com/Bear29ers/dotfiles/pull/12) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-8. 💪 Opened PR [#12](https://github.com/Bear29ers/dotfiles/pull/12) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-9. 💪 Opened PR [#1](https://github.com/Bear29ers/primer-three/pull/1) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-10. 🎉 Merged PR [#3](https://github.com/Bear29ers/framer-motion/pull/3) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
+1. 💪 Opened PR [#2](https://github.com/Bear29ers/primer-three/pull/2) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+2. ❌ Closed PR [#1](https://github.com/Bear29ers/primer-three/pull/1) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+3. 🎉 Merged PR [#14](https://github.com/Bear29ers/dotfiles/pull/14) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+4. 💪 Opened PR [#14](https://github.com/Bear29ers/dotfiles/pull/14) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+5. 🎉 Merged PR [#13](https://github.com/Bear29ers/dotfiles/pull/13) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+6. 🎉 Merged PR [#4](https://github.com/Bear29ers/framer-motion/pull/4) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
+7. 💪 Opened PR [#4](https://github.com/Bear29ers/framer-motion/pull/4) in [Bear29ers/framer-motion](https://github.com/Bear29ers/framer-motion)
+8. 💪 Opened PR [#13](https://github.com/Bear29ers/dotfiles/pull/13) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+9. 🎉 Merged PR [#12](https://github.com/Bear29ers/dotfiles/pull/12) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+10. 💪 Opened PR [#12](https://github.com/Bear29ers/dotfiles/pull/12) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 
 <!--END_SECTION:activity-->
 
