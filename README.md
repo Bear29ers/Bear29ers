@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/Bear29ers/bear29ers.com/pull/4) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-2. 🎉 Merged PR [#17](https://github.com/Bear29ers/dotfiles/pull/17) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-3. 💪 Opened PR [#17](https://github.com/Bear29ers/dotfiles/pull/17) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-4. 🎉 Merged PR [#15](https://github.com/Bear29ers/dotfiles/pull/15) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-5. 🎉 Merged PR [#16](https://github.com/Bear29ers/dotfiles/pull/16) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-6. 💪 Opened PR [#16](https://github.com/Bear29ers/dotfiles/pull/16) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-7. 💪 Opened PR [#15](https://github.com/Bear29ers/dotfiles/pull/15) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-8. 🎉 Merged PR [#2](https://github.com/Bear29ers/primer-three/pull/2) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-9. 💪 Opened PR [#2](https://github.com/Bear29ers/primer-three/pull/2) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-10. ❌ Closed PR [#1](https://github.com/Bear29ers/primer-three/pull/1) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+1. 🎉 Merged PR [#1](https://github.com/Bear29ers/css-methodology/pull/1) in [Bear29ers/css-methodology](https://github.com/Bear29ers/css-methodology)
+2. 💪 Opened PR [#1](https://github.com/Bear29ers/css-methodology/pull/1) in [Bear29ers/css-methodology](https://github.com/Bear29ers/css-methodology)
+3. 🎉 Merged PR [#4](https://github.com/Bear29ers/bear29ers.com/pull/4) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+4. 🎉 Merged PR [#17](https://github.com/Bear29ers/dotfiles/pull/17) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+5. 💪 Opened PR [#17](https://github.com/Bear29ers/dotfiles/pull/17) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+6. 🎉 Merged PR [#15](https://github.com/Bear29ers/dotfiles/pull/15) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+7. 🎉 Merged PR [#16](https://github.com/Bear29ers/dotfiles/pull/16) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+8. 💪 Opened PR [#16](https://github.com/Bear29ers/dotfiles/pull/16) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+9. 💪 Opened PR [#15](https://github.com/Bear29ers/dotfiles/pull/15) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+10. 🎉 Merged PR [#2](https://github.com/Bear29ers/primer-three/pull/2) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
 
 <!--END_SECTION:activity-->
 
