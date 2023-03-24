@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/Bear29ers/survival-ts/pull/2) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
-2. 🎉 Merged PR [#1](https://github.com/Bear29ers/survival-ts/pull/1) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
-3. 💪 Opened PR [#1](https://github.com/Bear29ers/survival-ts/pull/1) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
-4. ❗️ Opened issue [#13](https://github.com/Bear29ers/bear29ers.com/issues/13) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-5. ❗️ Opened issue [#12](https://github.com/Bear29ers/bear29ers.com/issues/12) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-6. ❗️ Opened issue [#11](https://github.com/Bear29ers/bear29ers.com/issues/11) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-7. ❗️ Opened issue [#10](https://github.com/Bear29ers/bear29ers.com/issues/10) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-8. ❗️ Opened issue [#9](https://github.com/Bear29ers/bear29ers.com/issues/9) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-9. 🎉 Merged PR [#8](https://github.com/Bear29ers/bear29ers.com/pull/8) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-10. ❗️ Closed issue [#2](https://github.com/Bear29ers/bear29ers.com/issues/2) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+1. 🎉 Merged PR [#2](https://github.com/Bear29ers/survival-ts/pull/2) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
+2. 💪 Opened PR [#2](https://github.com/Bear29ers/survival-ts/pull/2) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
+3. 🎉 Merged PR [#1](https://github.com/Bear29ers/survival-ts/pull/1) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
+4. 💪 Opened PR [#1](https://github.com/Bear29ers/survival-ts/pull/1) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
+5. ❗️ Opened issue [#13](https://github.com/Bear29ers/bear29ers.com/issues/13) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+6. ❗️ Opened issue [#12](https://github.com/Bear29ers/bear29ers.com/issues/12) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+7. ❗️ Opened issue [#11](https://github.com/Bear29ers/bear29ers.com/issues/11) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+8. ❗️ Opened issue [#10](https://github.com/Bear29ers/bear29ers.com/issues/10) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+9. ❗️ Opened issue [#9](https://github.com/Bear29ers/bear29ers.com/issues/9) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+10. 🎉 Merged PR [#8](https://github.com/Bear29ers/bear29ers.com/pull/8) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 
 <!--END_SECTION:activity-->
 
