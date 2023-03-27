@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#12](https://github.com/Bear29ers/js-mechanism/pull/12) in [Bear29ers/js-mechanism](https://github.com/Bear29ers/js-mechanism)
-2. 🎉 Merged PR [#3](https://github.com/Bear29ers/primer-jest/pull/3) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-3. 🎉 Merged PR [#2](https://github.com/Bear29ers/survival-ts/pull/2) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
-4. 💪 Opened PR [#2](https://github.com/Bear29ers/survival-ts/pull/2) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
-5. 🎉 Merged PR [#1](https://github.com/Bear29ers/survival-ts/pull/1) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
-6. 💪 Opened PR [#1](https://github.com/Bear29ers/survival-ts/pull/1) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
-7. ❗️ Opened issue [#13](https://github.com/Bear29ers/bear29ers.com/issues/13) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-8. ❗️ Opened issue [#12](https://github.com/Bear29ers/bear29ers.com/issues/12) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-9. ❗️ Opened issue [#11](https://github.com/Bear29ers/bear29ers.com/issues/11) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-10. ❗️ Opened issue [#10](https://github.com/Bear29ers/bear29ers.com/issues/10) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+1. 🎉 Merged PR [#1](https://github.com/Bear29ers/hands-on-react/pull/1) in [Bear29ers/hands-on-react](https://github.com/Bear29ers/hands-on-react)
+2. 💪 Opened PR [#1](https://github.com/Bear29ers/hands-on-react/pull/1) in [Bear29ers/hands-on-react](https://github.com/Bear29ers/hands-on-react)
+3. 💪 Opened PR [#12](https://github.com/Bear29ers/js-mechanism/pull/12) in [Bear29ers/js-mechanism](https://github.com/Bear29ers/js-mechanism)
+4. 🎉 Merged PR [#3](https://github.com/Bear29ers/primer-jest/pull/3) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+5. 🎉 Merged PR [#2](https://github.com/Bear29ers/survival-ts/pull/2) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
+6. 💪 Opened PR [#2](https://github.com/Bear29ers/survival-ts/pull/2) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
+7. 🎉 Merged PR [#1](https://github.com/Bear29ers/survival-ts/pull/1) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
+8. 💪 Opened PR [#1](https://github.com/Bear29ers/survival-ts/pull/1) in [Bear29ers/survival-ts](https://github.com/Bear29ers/survival-ts)
+9. ❗️ Opened issue [#13](https://github.com/Bear29ers/bear29ers.com/issues/13) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+10. ❗️ Opened issue [#12](https://github.com/Bear29ers/bear29ers.com/issues/12) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 
 <!--END_SECTION:activity-->
 
