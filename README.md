@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#18](https://github.com/Bear29ers/dotfiles/pull/18) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-2. 🎉 Merged PR [#4](https://github.com/Bear29ers/keeptrack/pull/4) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
-3. 💪 Opened PR [#4](https://github.com/Bear29ers/keeptrack/pull/4) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
-4. 💪 Opened PR [#3](https://github.com/Bear29ers/keeptrack/pull/3) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
-5. 🎉 Merged PR [#4](https://github.com/Bear29ers/primer-jest/pull/4) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-6. 💪 Opened PR [#4](https://github.com/Bear29ers/primer-jest/pull/4) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-7. 🎉 Merged PR [#2](https://github.com/Bear29ers/keeptrack/pull/2) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
-8. 💪 Opened PR [#2](https://github.com/Bear29ers/keeptrack/pull/2) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
-9. 🎉 Merged PR [#1](https://github.com/Bear29ers/keeptrack/pull/1) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
-10. 💪 Opened PR [#1](https://github.com/Bear29ers/keeptrack/pull/1) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
+1. 🎉 Merged PR [#5](https://github.com/Bear29ers/keeptrack/pull/5) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
+2. 💪 Opened PR [#5](https://github.com/Bear29ers/keeptrack/pull/5) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
+3. 💪 Opened PR [#18](https://github.com/Bear29ers/dotfiles/pull/18) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+4. 🎉 Merged PR [#4](https://github.com/Bear29ers/keeptrack/pull/4) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
+5. 💪 Opened PR [#4](https://github.com/Bear29ers/keeptrack/pull/4) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
+6. 💪 Opened PR [#3](https://github.com/Bear29ers/keeptrack/pull/3) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
+7. 🎉 Merged PR [#4](https://github.com/Bear29ers/primer-jest/pull/4) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+8. 💪 Opened PR [#4](https://github.com/Bear29ers/primer-jest/pull/4) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+9. 🎉 Merged PR [#2](https://github.com/Bear29ers/keeptrack/pull/2) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
+10. 💪 Opened PR [#2](https://github.com/Bear29ers/keeptrack/pull/2) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
 
 <!--END_SECTION:activity-->
 
