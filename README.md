@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Bear29ers/primer-vue/pull/1) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
-2. 💪 Opened PR [#1](https://github.com/Bear29ers/primer-vue/pull/1) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
-3. 🎉 Merged PR [#12](https://github.com/Bear29ers/js-mechanism/pull/12) in [Bear29ers/js-mechanism](https://github.com/Bear29ers/js-mechanism)
-4. 🎉 Merged PR [#7](https://github.com/Bear29ers/primer-jest/pull/7) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-5. 💪 Opened PR [#7](https://github.com/Bear29ers/primer-jest/pull/7) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-6. 🎉 Merged PR [#6](https://github.com/Bear29ers/primer-jest/pull/6) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-7. 💪 Opened PR [#6](https://github.com/Bear29ers/primer-jest/pull/6) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-8. 🎉 Merged PR [#5](https://github.com/Bear29ers/primer-jest/pull/5) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-9. 💪 Opened PR [#5](https://github.com/Bear29ers/primer-jest/pull/5) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-10. 🎉 Merged PR [#5](https://github.com/Bear29ers/keeptrack/pull/5) in [Bear29ers/keeptrack](https://github.com/Bear29ers/keeptrack)
+1. 🎉 Merged PR [#2](https://github.com/Bear29ers/primer-vue/pull/2) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
+2. 💪 Opened PR [#2](https://github.com/Bear29ers/primer-vue/pull/2) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
+3. 🎉 Merged PR [#1](https://github.com/Bear29ers/primer-vue/pull/1) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
+4. 💪 Opened PR [#1](https://github.com/Bear29ers/primer-vue/pull/1) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
+5. 🎉 Merged PR [#12](https://github.com/Bear29ers/js-mechanism/pull/12) in [Bear29ers/js-mechanism](https://github.com/Bear29ers/js-mechanism)
+6. 🎉 Merged PR [#7](https://github.com/Bear29ers/primer-jest/pull/7) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+7. 💪 Opened PR [#7](https://github.com/Bear29ers/primer-jest/pull/7) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+8. 🎉 Merged PR [#6](https://github.com/Bear29ers/primer-jest/pull/6) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+9. 💪 Opened PR [#6](https://github.com/Bear29ers/primer-jest/pull/6) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+10. 🎉 Merged PR [#5](https://github.com/Bear29ers/primer-jest/pull/5) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
 
 <!--END_SECTION:activity-->
 
