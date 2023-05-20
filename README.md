@@ -43,16 +43,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/Bear29ers/primer-jest/pull/9) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-2. 🎉 Merged PR [#8](https://github.com/Bear29ers/primer-jest/pull/8) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
-3. 💪 Opened PR [#19](https://github.com/Bear29ers/dotfiles/pull/19) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-4. 💪 Opened PR [#1](https://github.com/Bear29ers/primer-nuxt/pull/1) in [Bear29ers/primer-nuxt](https://github.com/Bear29ers/primer-nuxt)
-5. 🎉 Merged PR [#7](https://github.com/Bear29ers/primer-vue/pull/7) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
-6. 💪 Opened PR [#7](https://github.com/Bear29ers/primer-vue/pull/7) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
-7. 🎉 Merged PR [#6](https://github.com/Bear29ers/primer-vue/pull/6) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
-8. 🎉 Merged PR [#18](https://github.com/Bear29ers/dotfiles/pull/18) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-9. 💪 Opened PR [#6](https://github.com/Bear29ers/primer-vue/pull/6) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
-10. 🎉 Merged PR [#5](https://github.com/Bear29ers/primer-vue/pull/5) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
+1. 🎉 Merged PR [#9](https://github.com/Bear29ers/primer-jest/pull/9) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+2. 💪 Opened PR [#9](https://github.com/Bear29ers/primer-jest/pull/9) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+3. 🎉 Merged PR [#8](https://github.com/Bear29ers/primer-jest/pull/8) in [Bear29ers/primer-jest](https://github.com/Bear29ers/primer-jest)
+4. 💪 Opened PR [#19](https://github.com/Bear29ers/dotfiles/pull/19) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+5. 💪 Opened PR [#1](https://github.com/Bear29ers/primer-nuxt/pull/1) in [Bear29ers/primer-nuxt](https://github.com/Bear29ers/primer-nuxt)
+6. 🎉 Merged PR [#7](https://github.com/Bear29ers/primer-vue/pull/7) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
+7. 💪 Opened PR [#7](https://github.com/Bear29ers/primer-vue/pull/7) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
+8. 🎉 Merged PR [#6](https://github.com/Bear29ers/primer-vue/pull/6) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
+9. 🎉 Merged PR [#18](https://github.com/Bear29ers/dotfiles/pull/18) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+10. 💪 Opened PR [#6](https://github.com/Bear29ers/primer-vue/pull/6) in [Bear29ers/primer-vue](https://github.com/Bear29ers/primer-vue)
 
 <!--END_SECTION:activity-->
 
