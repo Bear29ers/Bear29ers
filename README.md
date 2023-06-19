@@ -80,8 +80,24 @@
 <br />
 <br />
 
+### :chart_with_upwards_trend: GitHub Stats
+
+<div style="display: flex;">
+    <a href="https://github.com/Bear29ers">
+        <img height="200px;" src="https://github-readme-stats.vercel.app/api?username=Bear29ers&show_icons=true&theme=bear">
+    </a>
+    <a href="https://github.com/Bear29ers">
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bear29ers&langs_count=6&layout=compact&theme=bear">
+    </a>
+</div>
+
+<br />
+<br />
+
 ### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#2](https://github.com/Bear29ers/dotfiles/pull/2) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 2. 💪 Opened PR [#2](https://github.com/Bear29ers/dotfiles/pull/2) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 3. 🎉 Merged PR [#1](https://github.com/Bear29ers/dotfiles/pull/1) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
@@ -93,16 +109,3 @@
 9. 🎉 Merged PR [#11](https://github.com/Bear27kuma/js-mechanism/pull/11) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
 10. 💪 Opened PR [#11](https://github.com/Bear27kuma/js-mechanism/pull/11) in [Bear27kuma/js-mechanism](https://github.com/Bear27kuma/js-mechanism)
 <!--END_SECTION:activity-->
-
-<br />
-<br />
-
-### :chart_with_upwards_trend: GitHub Stats
-<div style="display: flex;">
-    <a href="https://github.com/Bear29ers">
-        <img height="200px;" src="https://github-readme-stats.vercel.app/api?username=Bear29ers&show_icons=true&theme=bear">
-    </a>
-    <a href="https://github.com/Bear29ers">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bear29ers&langs_count=6&layout=compact&theme=bear">
-    </a>
-</div>
