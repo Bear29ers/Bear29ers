@@ -64,15 +64,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/Bear29ers/jest-tax-app/pull/5) in [Bear29ers/jest-tax-app](https://github.com/Bear29ers/jest-tax-app)
-2. 💪 Opened PR [#5](https://github.com/Bear29ers/jest-tax-app/pull/5) in [Bear29ers/jest-tax-app](https://github.com/Bear29ers/jest-tax-app)
-3. 🎉 Merged PR [#13](https://github.com/Bear29ers/next-portfolio/pull/13) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
-4. 💪 Opened PR [#13](https://github.com/Bear29ers/next-portfolio/pull/13) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
-5. 🎉 Merged PR [#12](https://github.com/Bear29ers/next-portfolio/pull/12) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
-6. 💪 Opened PR [#12](https://github.com/Bear29ers/next-portfolio/pull/12) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
-7. 🎉 Merged PR [#11](https://github.com/Bear29ers/next-portfolio/pull/11) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
-8. 💪 Opened PR [#11](https://github.com/Bear29ers/next-portfolio/pull/11) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
-9. 🎉 Merged PR [#10](https://github.com/Bear29ers/next-portfolio/pull/10) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
-10. 💪 Opened PR [#10](https://github.com/Bear29ers/next-portfolio/pull/10) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
+1. 🎉 Merged PR [#3](https://github.com/Bear29ers/Bear29ers/pull/3) in [Bear29ers/Bear29ers](https://github.com/Bear29ers/Bear29ers)
+2. 💪 Opened PR [#3](https://github.com/Bear29ers/Bear29ers/pull/3) in [Bear29ers/Bear29ers](https://github.com/Bear29ers/Bear29ers)
+3. 🎉 Merged PR [#5](https://github.com/Bear29ers/jest-tax-app/pull/5) in [Bear29ers/jest-tax-app](https://github.com/Bear29ers/jest-tax-app)
+4. 💪 Opened PR [#5](https://github.com/Bear29ers/jest-tax-app/pull/5) in [Bear29ers/jest-tax-app](https://github.com/Bear29ers/jest-tax-app)
+5. 🎉 Merged PR [#13](https://github.com/Bear29ers/next-portfolio/pull/13) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
+6. 💪 Opened PR [#13](https://github.com/Bear29ers/next-portfolio/pull/13) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
+7. 🎉 Merged PR [#12](https://github.com/Bear29ers/next-portfolio/pull/12) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
+8. 💪 Opened PR [#12](https://github.com/Bear29ers/next-portfolio/pull/12) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
+9. 🎉 Merged PR [#11](https://github.com/Bear29ers/next-portfolio/pull/11) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
+10. 💪 Opened PR [#11](https://github.com/Bear29ers/next-portfolio/pull/11) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
 
 <!--END_SECTION:activity-->
