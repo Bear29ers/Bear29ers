@@ -39,6 +39,20 @@
 <br />
 <br />
 
+### :chart_with_upwards_trend: GitHub Stats
+
+<div style="display: flex;">
+    <a href="https://github.com/Bear29ers">
+        <img height="200px;" src="https://github-readme-stats.vercel.app/api?username=Bear29ers&show_icons=true&theme=bear">
+    </a>
+    <a href="https://github.com/Bear29ers">
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bear29ers&langs_count=6&layout=compact&theme=bear">
+    </a>
+</div>
+
+<br />
+<br />
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -55,17 +69,3 @@
 10. 💪 Opened PR [#10](https://github.com/Bear29ers/next-portfolio/pull/10) in [Bear29ers/next-portfolio](https://github.com/Bear29ers/next-portfolio)
 
 <!--END_SECTION:activity-->
-
-<br />
-<br />
-
-### :chart_with_upwards_trend: GitHub Stats
-
-<div style="display: flex;">
-    <a href="https://github.com/Bear29ers">
-        <img height="200px;" src="https://github-readme-stats.vercel.app/api?username=Bear29ers&show_icons=true&theme=bear">
-    </a>
-    <a href="https://github.com/Bear29ers">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bear29ers&langs_count=6&layout=compact&theme=bear">
-    </a>
-</div>
