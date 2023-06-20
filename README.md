@@ -53,6 +53,11 @@
 <br />
 <br />
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<br />
+<br />
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
