@@ -64,15 +64,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#13](https://github.com/Bear29ers/bear29ers.com/issues/13) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-2. 🎉 Merged PR [#14](https://github.com/Bear29ers/bear29ers.com/pull/14) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-3. ❗ Opened issue [#1610](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1610) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
-4. 💪 Opened PR [#14](https://github.com/Bear29ers/bear29ers.com/pull/14) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-5. ❗ Opened issue [#13](https://github.com/Bear29ers/bear29ers.com/issues/13) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-6. 🎉 Merged PR [#2](https://github.com/Bear29ers/flexibble/pull/2) in [Bear29ers/flexibble](https://github.com/Bear29ers/flexibble)
-7. 💪 Opened PR [#2](https://github.com/Bear29ers/flexibble/pull/2) in [Bear29ers/flexibble](https://github.com/Bear29ers/flexibble)
-8. ❗ Opened issue [#12](https://github.com/Bear29ers/bear29ers.com/issues/12) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-9. 🎉 Merged PR [#1](https://github.com/Bear29ers/flexibble/pull/1) in [Bear29ers/flexibble](https://github.com/Bear29ers/flexibble)
-10. ❗ Opened issue [#11](https://github.com/Bear29ers/bear29ers.com/issues/11) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+1. 🔒 Closed issue [#5](https://github.com/Bear29ers/bear29ers.com/issues/5) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+2. 🎉 Merged PR [#15](https://github.com/Bear29ers/bear29ers.com/pull/15) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+3. 💪 Opened PR [#15](https://github.com/Bear29ers/bear29ers.com/pull/15) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+4. 🔒 Closed issue [#13](https://github.com/Bear29ers/bear29ers.com/issues/13) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+5. 🎉 Merged PR [#14](https://github.com/Bear29ers/bear29ers.com/pull/14) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+6. ❗ Opened issue [#1610](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1610) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
+7. 💪 Opened PR [#14](https://github.com/Bear29ers/bear29ers.com/pull/14) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+8. ❗ Opened issue [#13](https://github.com/Bear29ers/bear29ers.com/issues/13) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+9. 🎉 Merged PR [#2](https://github.com/Bear29ers/flexibble/pull/2) in [Bear29ers/flexibble](https://github.com/Bear29ers/flexibble)
+10. 💪 Opened PR [#2](https://github.com/Bear29ers/flexibble/pull/2) in [Bear29ers/flexibble](https://github.com/Bear29ers/flexibble)
 
 <!--END_SECTION:activity-->
