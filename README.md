@@ -24,17 +24,21 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts)
 
-![My Skills](https://skillicons.dev/icons?i=ts,jquery,react,nextjs,vercel,vue)
+![My Skills](https://skillicons.dev/icons?i=jquery,threejs,react,emotion,styledcomponents,materialui,nextjs)
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,jest,php,laravel,mysql)
+![My Skills](https://skillicons.dev/icons?i=vercel,vue,nuxt,vite,nodejs,express,jest)
 
-![My Skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,linux)
+![My Skills](https://skillicons.dev/icons?i=regex,webpack,babel,php,laravel,mysql,sqlite)
 
-![My Skills](https://skillicons.dev/icons?i=vim,neovim,lua,md,idea,vscode)
+![My Skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,gcp,firebase)
 
-![My Skills](https://skillicons.dev/icons?i=atom,webpack,xd,ps,ai,ae)
+![My Skills](https://skillicons.dev/icons?i=vim,neovim,linux,bash,lua,markdown,svg)
+
+![My Skills](https://skillicons.dev/icons?i=idea,vscode,atom,figma,xd,ps,ai)
+
+![My Skills](https://skillicons.dev/icons?i=pr,ae,postman,sentry,codepen,stackoverflow,discord)
 
 <br />
 <br />
@@ -43,10 +47,7 @@
 
 <div style="display: flex;">
     <a href="https://github.com/Bear29ers">
-        <img height="200px;" src="https://github-readme-stats-bear29ers.vercel.app/api?username=Bear29ers&show_icons=true&theme=bear">
-    </a>
-    <a href="https://github.com/Bear29ers">
-        <img height="200px" src="https://github-readme-stats-bear29ers.vercel.app/api/top-langs/?username=Bear29ers&langs_count=6&layout=compact&theme=bear">
+        <img height="220px;" src="https://github-readme-stats-bear29ers.vercel.app/api?username=Bear29ers&show_icons=true&theme=bear">
     </a>
 </div>
 
