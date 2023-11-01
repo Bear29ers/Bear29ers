@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/9) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
-2. 💪 Opened PR [#9](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/9) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
-3. 💪 Opened PR [#47](https://github.com/Bear29ers/bear29ers.com/pull/47) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-4. 🎉 Merged PR [#8](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/8) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
-5. 💪 Opened PR [#8](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/8) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
-6. 🎉 Merged PR [#7](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/7) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
-7. 💪 Opened PR [#7](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/7) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
-8. 🎉 Merged PR [#6](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/6) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
-9. 💪 Opened PR [#6](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/6) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
-10. 🎉 Merged PR [#5](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/5) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
+1. 💪 Opened PR [#11](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/11) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
+2. 🎉 Merged PR [#10](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/10) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
+3. 💪 Opened PR [#10](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/10) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
+4. 🎉 Merged PR [#9](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/9) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
+5. 💪 Opened PR [#9](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/9) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
+6. 💪 Opened PR [#47](https://github.com/Bear29ers/bear29ers.com/pull/47) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+7. 🎉 Merged PR [#8](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/8) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
+8. 💪 Opened PR [#8](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/8) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
+9. 🎉 Merged PR [#7](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/7) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
+10. 💪 Opened PR [#7](https://github.com/Bear29ers/ts-node-mongo-rest-api/pull/7) in [Bear29ers/ts-node-mongo-rest-api](https://github.com/Bear29ers/ts-node-mongo-rest-api)
 
 <!--END_SECTION:activity-->
