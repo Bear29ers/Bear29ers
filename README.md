@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/Bear29ers/travel-website/pull/5) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-2. 💪 Opened PR [#5](https://github.com/Bear29ers/travel-website/pull/5) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-3. 🎉 Merged PR [#9](https://github.com/Bear29ers/nextjs-dashboard/pull/9) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-4. 💪 Opened PR [#9](https://github.com/Bear29ers/nextjs-dashboard/pull/9) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-5. 🎉 Merged PR [#23](https://github.com/Bear29ers/dotfiles/pull/23) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-6. 💪 Opened PR [#23](https://github.com/Bear29ers/dotfiles/pull/23) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-7. 🎉 Merged PR [#22](https://github.com/Bear29ers/dotfiles/pull/22) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-8. 💪 Opened PR [#22](https://github.com/Bear29ers/dotfiles/pull/22) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-9. 🎉 Merged PR [#21](https://github.com/Bear29ers/dotfiles/pull/21) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-10. 💪 Opened PR [#21](https://github.com/Bear29ers/dotfiles/pull/21) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+1. 🎉 Merged PR [#6](https://github.com/Bear29ers/travel-website/pull/6) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+2. 💪 Opened PR [#6](https://github.com/Bear29ers/travel-website/pull/6) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+3. 🎉 Merged PR [#5](https://github.com/Bear29ers/travel-website/pull/5) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+4. 💪 Opened PR [#5](https://github.com/Bear29ers/travel-website/pull/5) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+5. 🎉 Merged PR [#9](https://github.com/Bear29ers/nextjs-dashboard/pull/9) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+6. 💪 Opened PR [#9](https://github.com/Bear29ers/nextjs-dashboard/pull/9) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+7. 🎉 Merged PR [#23](https://github.com/Bear29ers/dotfiles/pull/23) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+8. 💪 Opened PR [#23](https://github.com/Bear29ers/dotfiles/pull/23) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+9. 🎉 Merged PR [#22](https://github.com/Bear29ers/dotfiles/pull/22) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+10. 💪 Opened PR [#22](https://github.com/Bear29ers/dotfiles/pull/22) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 
 <!--END_SECTION:activity-->
