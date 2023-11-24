@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/Bear29ers/travel-website/pull/9) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-2. 💪 Opened PR [#9](https://github.com/Bear29ers/travel-website/pull/9) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-3. 🎉 Merged PR [#8](https://github.com/Bear29ers/travel-website/pull/8) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-4. 💪 Opened PR [#8](https://github.com/Bear29ers/travel-website/pull/8) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-5. 🎉 Merged PR [#10](https://github.com/Bear29ers/nextjs-dashboard/pull/10) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-6. 💪 Opened PR [#10](https://github.com/Bear29ers/nextjs-dashboard/pull/10) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-7. 🎉 Merged PR [#25](https://github.com/Bear29ers/dotfiles/pull/25) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-8. 💪 Opened PR [#25](https://github.com/Bear29ers/dotfiles/pull/25) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-9. 🎉 Merged PR [#24](https://github.com/Bear29ers/dotfiles/pull/24) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-10. 💪 Opened PR [#24](https://github.com/Bear29ers/dotfiles/pull/24) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+1. ❗ Opened issue [#49](https://github.com/Bear29ers/bear29ers.com/issues/49) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+2. ❗ Opened issue [#48](https://github.com/Bear29ers/bear29ers.com/issues/48) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+3. 🎉 Merged PR [#10](https://github.com/Bear29ers/travel-website/pull/10) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+4. 💪 Opened PR [#10](https://github.com/Bear29ers/travel-website/pull/10) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+5. 🎉 Merged PR [#9](https://github.com/Bear29ers/travel-website/pull/9) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+6. 💪 Opened PR [#9](https://github.com/Bear29ers/travel-website/pull/9) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+7. 🎉 Merged PR [#8](https://github.com/Bear29ers/travel-website/pull/8) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+8. 💪 Opened PR [#8](https://github.com/Bear29ers/travel-website/pull/8) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+9. 🎉 Merged PR [#10](https://github.com/Bear29ers/nextjs-dashboard/pull/10) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+10. 💪 Opened PR [#10](https://github.com/Bear29ers/nextjs-dashboard/pull/10) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
 
 <!--END_SECTION:activity-->
