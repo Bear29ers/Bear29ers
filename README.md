@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/Bear29ers/nextjs-dashboard/pull/12) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-2. 💪 Opened PR [#12](https://github.com/Bear29ers/nextjs-dashboard/pull/12) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-3. 🎉 Merged PR [#26](https://github.com/Bear29ers/dotfiles/pull/26) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-4. 💪 Opened PR [#26](https://github.com/Bear29ers/dotfiles/pull/26) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-5. 🎉 Merged PR [#11](https://github.com/Bear29ers/nextjs-dashboard/pull/11) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-6. 💪 Opened PR [#11](https://github.com/Bear29ers/nextjs-dashboard/pull/11) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-7. 🎉 Merged PR [#1](https://github.com/Bear29ers/pwa-todo/pull/1) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-8. 💪 Opened PR [#1](https://github.com/Bear29ers/pwa-todo/pull/1) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-9. ❗ Opened issue [#49](https://github.com/Bear29ers/bear29ers.com/issues/49) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-10. ❗ Opened issue [#48](https://github.com/Bear29ers/bear29ers.com/issues/48) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+1. 🎉 Merged PR [#13](https://github.com/Bear29ers/nextjs-dashboard/pull/13) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+2. 💪 Opened PR [#13](https://github.com/Bear29ers/nextjs-dashboard/pull/13) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+3. 🎉 Merged PR [#12](https://github.com/Bear29ers/nextjs-dashboard/pull/12) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+4. 💪 Opened PR [#12](https://github.com/Bear29ers/nextjs-dashboard/pull/12) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+5. 🎉 Merged PR [#26](https://github.com/Bear29ers/dotfiles/pull/26) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+6. 💪 Opened PR [#26](https://github.com/Bear29ers/dotfiles/pull/26) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+7. 🎉 Merged PR [#11](https://github.com/Bear29ers/nextjs-dashboard/pull/11) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+8. 💪 Opened PR [#11](https://github.com/Bear29ers/nextjs-dashboard/pull/11) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+9. 🎉 Merged PR [#1](https://github.com/Bear29ers/pwa-todo/pull/1) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+10. 💪 Opened PR [#1](https://github.com/Bear29ers/pwa-todo/pull/1) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
 
 <!--END_SECTION:activity-->
