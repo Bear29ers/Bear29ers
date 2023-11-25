@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Bear29ers/pwa-todo/pull/1) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-2. 💪 Opened PR [#1](https://github.com/Bear29ers/pwa-todo/pull/1) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-3. ❗ Opened issue [#49](https://github.com/Bear29ers/bear29ers.com/issues/49) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-4. ❗ Opened issue [#48](https://github.com/Bear29ers/bear29ers.com/issues/48) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-5. 🎉 Merged PR [#10](https://github.com/Bear29ers/travel-website/pull/10) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-6. 💪 Opened PR [#10](https://github.com/Bear29ers/travel-website/pull/10) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-7. 🎉 Merged PR [#9](https://github.com/Bear29ers/travel-website/pull/9) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-8. 💪 Opened PR [#9](https://github.com/Bear29ers/travel-website/pull/9) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-9. 🎉 Merged PR [#8](https://github.com/Bear29ers/travel-website/pull/8) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
-10. 💪 Opened PR [#8](https://github.com/Bear29ers/travel-website/pull/8) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+1. 🎉 Merged PR [#11](https://github.com/Bear29ers/nextjs-dashboard/pull/11) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+2. 💪 Opened PR [#11](https://github.com/Bear29ers/nextjs-dashboard/pull/11) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+3. 🎉 Merged PR [#1](https://github.com/Bear29ers/pwa-todo/pull/1) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+4. 💪 Opened PR [#1](https://github.com/Bear29ers/pwa-todo/pull/1) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+5. ❗ Opened issue [#49](https://github.com/Bear29ers/bear29ers.com/issues/49) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+6. ❗ Opened issue [#48](https://github.com/Bear29ers/bear29ers.com/issues/48) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+7. 🎉 Merged PR [#10](https://github.com/Bear29ers/travel-website/pull/10) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+8. 💪 Opened PR [#10](https://github.com/Bear29ers/travel-website/pull/10) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+9. 🎉 Merged PR [#9](https://github.com/Bear29ers/travel-website/pull/9) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
+10. 💪 Opened PR [#9](https://github.com/Bear29ers/travel-website/pull/9) in [Bear29ers/travel-website](https://github.com/Bear29ers/travel-website)
 
 <!--END_SECTION:activity-->
