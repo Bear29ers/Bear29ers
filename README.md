@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#15](https://github.com/Bear29ers/nextjs-dashboard/pull/15) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-2. 💪 Opened PR [#15](https://github.com/Bear29ers/nextjs-dashboard/pull/15) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-3. 🎉 Merged PR [#14](https://github.com/Bear29ers/nextjs-dashboard/pull/14) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-4. 💪 Opened PR [#14](https://github.com/Bear29ers/nextjs-dashboard/pull/14) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-5. 🎉 Merged PR [#13](https://github.com/Bear29ers/nextjs-dashboard/pull/13) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-6. 💪 Opened PR [#13](https://github.com/Bear29ers/nextjs-dashboard/pull/13) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-7. 🎉 Merged PR [#12](https://github.com/Bear29ers/nextjs-dashboard/pull/12) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-8. 💪 Opened PR [#12](https://github.com/Bear29ers/nextjs-dashboard/pull/12) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
-9. 🎉 Merged PR [#26](https://github.com/Bear29ers/dotfiles/pull/26) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-10. 💪 Opened PR [#26](https://github.com/Bear29ers/dotfiles/pull/26) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+1. 🎉 Merged PR [#16](https://github.com/Bear29ers/nextjs-dashboard/pull/16) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+2. 💪 Opened PR [#16](https://github.com/Bear29ers/nextjs-dashboard/pull/16) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+3. 🎉 Merged PR [#15](https://github.com/Bear29ers/nextjs-dashboard/pull/15) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+4. 💪 Opened PR [#15](https://github.com/Bear29ers/nextjs-dashboard/pull/15) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+5. 🎉 Merged PR [#14](https://github.com/Bear29ers/nextjs-dashboard/pull/14) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+6. 💪 Opened PR [#14](https://github.com/Bear29ers/nextjs-dashboard/pull/14) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+7. 🎉 Merged PR [#13](https://github.com/Bear29ers/nextjs-dashboard/pull/13) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+8. 💪 Opened PR [#13](https://github.com/Bear29ers/nextjs-dashboard/pull/13) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+9. 🎉 Merged PR [#12](https://github.com/Bear29ers/nextjs-dashboard/pull/12) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
+10. 💪 Opened PR [#12](https://github.com/Bear29ers/nextjs-dashboard/pull/12) in [Bear29ers/nextjs-dashboard](https://github.com/Bear29ers/nextjs-dashboard)
 
 <!--END_SECTION:activity-->
