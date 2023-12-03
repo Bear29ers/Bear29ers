@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/Bear29ers/pwa-todo/pull/9) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-2. 💪 Opened PR [#9](https://github.com/Bear29ers/pwa-todo/pull/9) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-3. 🎉 Merged PR [#8](https://github.com/Bear29ers/pwa-todo/pull/8) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-4. 💪 Opened PR [#8](https://github.com/Bear29ers/pwa-todo/pull/8) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-5. 🎉 Merged PR [#7](https://github.com/Bear29ers/pwa-todo/pull/7) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-6. 💪 Opened PR [#7](https://github.com/Bear29ers/pwa-todo/pull/7) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-7. 🎉 Merged PR [#6](https://github.com/Bear29ers/pwa-todo/pull/6) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-8. 💪 Opened PR [#6](https://github.com/Bear29ers/pwa-todo/pull/6) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-9. 🎉 Merged PR [#5](https://github.com/Bear29ers/pwa-todo/pull/5) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
-10. 💪 Opened PR [#5](https://github.com/Bear29ers/pwa-todo/pull/5) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+1. 🎉 Merged PR [#10](https://github.com/Bear29ers/pwa-todo/pull/10) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+2. 💪 Opened PR [#10](https://github.com/Bear29ers/pwa-todo/pull/10) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+3. 🎉 Merged PR [#9](https://github.com/Bear29ers/pwa-todo/pull/9) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+4. 💪 Opened PR [#9](https://github.com/Bear29ers/pwa-todo/pull/9) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+5. 🎉 Merged PR [#8](https://github.com/Bear29ers/pwa-todo/pull/8) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+6. 💪 Opened PR [#8](https://github.com/Bear29ers/pwa-todo/pull/8) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+7. 🎉 Merged PR [#7](https://github.com/Bear29ers/pwa-todo/pull/7) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+8. 💪 Opened PR [#7](https://github.com/Bear29ers/pwa-todo/pull/7) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+9. 🎉 Merged PR [#6](https://github.com/Bear29ers/pwa-todo/pull/6) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
+10. 💪 Opened PR [#6](https://github.com/Bear29ers/pwa-todo/pull/6) in [Bear29ers/pwa-todo](https://github.com/Bear29ers/pwa-todo)
 
 <!--END_SECTION:activity-->
