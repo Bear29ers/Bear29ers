@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/Bear29ers/anime-vault/pull/3) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
-2. 💪 Opened PR [#3](https://github.com/Bear29ers/anime-vault/pull/3) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
-3. ❗ Opened issue [#52](https://github.com/Bear29ers/bear29ers.com/issues/52) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-4. 🔒 Closed issue [#46](https://github.com/Bear29ers/bear29ers.com/issues/46) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-5. 🎉 Merged PR [#47](https://github.com/Bear29ers/bear29ers.com/pull/47) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-6. 🎉 Merged PR [#2](https://github.com/Bear29ers/anime-vault/pull/2) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
-7. 💪 Opened PR [#2](https://github.com/Bear29ers/anime-vault/pull/2) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
-8. ❗ Opened issue [#51](https://github.com/Bear29ers/bear29ers.com/issues/51) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-9. 🎉 Merged PR [#1](https://github.com/Bear29ers/anime-vault/pull/1) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
-10. 💪 Opened PR [#1](https://github.com/Bear29ers/anime-vault/pull/1) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
+1. 🎉 Merged PR [#4](https://github.com/Bear29ers/anime-vault/pull/4) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
+2. 💪 Opened PR [#4](https://github.com/Bear29ers/anime-vault/pull/4) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
+3. 🎉 Merged PR [#3](https://github.com/Bear29ers/anime-vault/pull/3) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
+4. 💪 Opened PR [#3](https://github.com/Bear29ers/anime-vault/pull/3) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
+5. ❗ Opened issue [#52](https://github.com/Bear29ers/bear29ers.com/issues/52) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+6. 🔒 Closed issue [#46](https://github.com/Bear29ers/bear29ers.com/issues/46) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+7. 🎉 Merged PR [#47](https://github.com/Bear29ers/bear29ers.com/pull/47) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+8. 🎉 Merged PR [#2](https://github.com/Bear29ers/anime-vault/pull/2) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
+9. 💪 Opened PR [#2](https://github.com/Bear29ers/anime-vault/pull/2) in [Bear29ers/anime-vault](https://github.com/Bear29ers/anime-vault)
+10. ❗ Opened issue [#51](https://github.com/Bear29ers/bear29ers.com/issues/51) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 
 <!--END_SECTION:activity-->
