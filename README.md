@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/Bear29ers/primer-three/pull/6) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-2. 💪 Opened PR [#6](https://github.com/Bear29ers/primer-three/pull/6) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-3. 🎉 Merged PR [#5](https://github.com/Bear29ers/primer-three/pull/5) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-4. 💪 Opened PR [#5](https://github.com/Bear29ers/primer-three/pull/5) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-5. 🎉 Merged PR [#4](https://github.com/Bear29ers/primer-three/pull/4) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-6. 💪 Opened PR [#4](https://github.com/Bear29ers/primer-three/pull/4) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-7. 🎉 Merged PR [#3](https://github.com/Bear29ers/primer-three/pull/3) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-8. 💪 Opened PR [#3](https://github.com/Bear29ers/primer-three/pull/3) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-9. 🎉 Merged PR [#2](https://github.com/Bear29ers/primer-three/pull/2) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-10. 💪 Opened PR [#2](https://github.com/Bear29ers/primer-three/pull/2) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+1. 💪 Opened PR [#7](https://github.com/Bear29ers/primer-three/pull/7) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+2. 🎉 Merged PR [#6](https://github.com/Bear29ers/primer-three/pull/6) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+3. 💪 Opened PR [#6](https://github.com/Bear29ers/primer-three/pull/6) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+4. 🎉 Merged PR [#5](https://github.com/Bear29ers/primer-three/pull/5) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+5. 💪 Opened PR [#5](https://github.com/Bear29ers/primer-three/pull/5) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+6. 🎉 Merged PR [#4](https://github.com/Bear29ers/primer-three/pull/4) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+7. 💪 Opened PR [#4](https://github.com/Bear29ers/primer-three/pull/4) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+8. 🎉 Merged PR [#3](https://github.com/Bear29ers/primer-three/pull/3) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+9. 💪 Opened PR [#3](https://github.com/Bear29ers/primer-three/pull/3) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+10. 🎉 Merged PR [#2](https://github.com/Bear29ers/primer-three/pull/2) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
 
 <!--END_SECTION:activity-->
