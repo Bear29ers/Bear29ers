@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Bear29ers/next-animated-portfolio/pull/2) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-2. 💪 Opened PR [#2](https://github.com/Bear29ers/next-animated-portfolio/pull/2) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-3. 🎉 Merged PR [#1](https://github.com/Bear29ers/next-animated-portfolio/pull/1) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-4. 💪 Opened PR [#1](https://github.com/Bear29ers/next-animated-portfolio/pull/1) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-5. 💪 Opened PR [#8](https://github.com/Bear29ers/primer-three/pull/8) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-6. ❗ Opened issue [#54](https://github.com/Bear29ers/bear29ers.com/issues/54) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-7. 🎉 Merged PR [#7](https://github.com/Bear29ers/primer-three/pull/7) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-8. 💪 Opened PR [#53](https://github.com/Bear29ers/bear29ers.com/pull/53) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-9. 💪 Opened PR [#7](https://github.com/Bear29ers/primer-three/pull/7) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-10. 🎉 Merged PR [#6](https://github.com/Bear29ers/primer-three/pull/6) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+1. 🎉 Merged PR [#3](https://github.com/Bear29ers/next-animated-portfolio/pull/3) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+2. 💪 Opened PR [#3](https://github.com/Bear29ers/next-animated-portfolio/pull/3) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+3. 🎉 Merged PR [#2](https://github.com/Bear29ers/next-animated-portfolio/pull/2) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+4. 💪 Opened PR [#2](https://github.com/Bear29ers/next-animated-portfolio/pull/2) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+5. 🎉 Merged PR [#1](https://github.com/Bear29ers/next-animated-portfolio/pull/1) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+6. 💪 Opened PR [#1](https://github.com/Bear29ers/next-animated-portfolio/pull/1) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+7. 💪 Opened PR [#8](https://github.com/Bear29ers/primer-three/pull/8) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+8. ❗ Opened issue [#54](https://github.com/Bear29ers/bear29ers.com/issues/54) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+9. 🎉 Merged PR [#7](https://github.com/Bear29ers/primer-three/pull/7) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
+10. 💪 Opened PR [#53](https://github.com/Bear29ers/bear29ers.com/pull/53) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 
 <!--END_SECTION:activity-->
