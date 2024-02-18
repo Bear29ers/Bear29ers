@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#59](https://github.com/Bear29ers/bear29ers.com/issues/59) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-2. ❗ Opened issue [#58](https://github.com/Bear29ers/bear29ers.com/issues/58) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-3. ❗ Opened issue [#57](https://github.com/Bear29ers/bear29ers.com/issues/57) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-4. ❗ Opened issue [#56](https://github.com/Bear29ers/bear29ers.com/issues/56) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-5. 💪 Opened PR [#55](https://github.com/Bear29ers/bear29ers.com/pull/55) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-6. 🎉 Merged PR [#5](https://github.com/Bear29ers/next-animated-portfolio/pull/5) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-7. 💪 Opened PR [#5](https://github.com/Bear29ers/next-animated-portfolio/pull/5) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-8. 🎉 Merged PR [#4](https://github.com/Bear29ers/next-animated-portfolio/pull/4) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-9. 💪 Opened PR [#4](https://github.com/Bear29ers/next-animated-portfolio/pull/4) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-10. 🎉 Merged PR [#3](https://github.com/Bear29ers/next-animated-portfolio/pull/3) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+1. 🔒 Closed issue [#52](https://github.com/Bear29ers/bear29ers.com/issues/52) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+2. 🔒 Closed issue [#59](https://github.com/Bear29ers/bear29ers.com/issues/59) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+3. 🔒 Closed issue [#57](https://github.com/Bear29ers/bear29ers.com/issues/57) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+4. 🎉 Merged PR [#53](https://github.com/Bear29ers/bear29ers.com/pull/53) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+5. 🔒 Closed issue [#56](https://github.com/Bear29ers/bear29ers.com/issues/56) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+6. 🎉 Merged PR [#55](https://github.com/Bear29ers/bear29ers.com/pull/55) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+7. 🔒 Closed issue [#54](https://github.com/Bear29ers/bear29ers.com/issues/54) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+8. 🔒 Closed issue [#49](https://github.com/Bear29ers/bear29ers.com/issues/49) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+9. 🔒 Closed issue [#48](https://github.com/Bear29ers/bear29ers.com/issues/48) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+10. ❗ Opened issue [#59](https://github.com/Bear29ers/bear29ers.com/issues/59) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 
 <!--END_SECTION:activity-->
