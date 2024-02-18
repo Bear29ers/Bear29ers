@@ -65,15 +65,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/Bear29ers/next-animated-portfolio/pull/4) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-2. 💪 Opened PR [#4](https://github.com/Bear29ers/next-animated-portfolio/pull/4) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-3. 🎉 Merged PR [#3](https://github.com/Bear29ers/next-animated-portfolio/pull/3) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-4. 💪 Opened PR [#3](https://github.com/Bear29ers/next-animated-portfolio/pull/3) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-5. 🎉 Merged PR [#2](https://github.com/Bear29ers/next-animated-portfolio/pull/2) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-6. 💪 Opened PR [#2](https://github.com/Bear29ers/next-animated-portfolio/pull/2) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-7. 🎉 Merged PR [#1](https://github.com/Bear29ers/next-animated-portfolio/pull/1) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-8. 💪 Opened PR [#1](https://github.com/Bear29ers/next-animated-portfolio/pull/1) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
-9. 💪 Opened PR [#8](https://github.com/Bear29ers/primer-three/pull/8) in [Bear29ers/primer-three](https://github.com/Bear29ers/primer-three)
-10. ❗ Opened issue [#54](https://github.com/Bear29ers/bear29ers.com/issues/54) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+1. 🎉 Merged PR [#5](https://github.com/Bear29ers/next-animated-portfolio/pull/5) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+2. 💪 Opened PR [#5](https://github.com/Bear29ers/next-animated-portfolio/pull/5) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+3. 🎉 Merged PR [#4](https://github.com/Bear29ers/next-animated-portfolio/pull/4) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+4. 💪 Opened PR [#4](https://github.com/Bear29ers/next-animated-portfolio/pull/4) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+5. 🎉 Merged PR [#3](https://github.com/Bear29ers/next-animated-portfolio/pull/3) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+6. 💪 Opened PR [#3](https://github.com/Bear29ers/next-animated-portfolio/pull/3) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+7. 🎉 Merged PR [#2](https://github.com/Bear29ers/next-animated-portfolio/pull/2) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+8. 💪 Opened PR [#2](https://github.com/Bear29ers/next-animated-portfolio/pull/2) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+9. 🎉 Merged PR [#1](https://github.com/Bear29ers/next-animated-portfolio/pull/1) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
+10. 💪 Opened PR [#1](https://github.com/Bear29ers/next-animated-portfolio/pull/1) in [Bear29ers/next-animated-portfolio](https://github.com/Bear29ers/next-animated-portfolio)
 
 <!--END_SECTION:activity-->
