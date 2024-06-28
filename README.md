@@ -1,21 +1,20 @@
 ### Hi there, I'm Yuta 🤟🏻🐻
 
-## I'm a Developer, and Designer!!
+## I'm a Frontend Developer, and Designer!!
 
 - 🌱 I’m currently learning Next.js and Three.js 🤣
-- 👬🏻 I’m looking to collaborate with other content creators 👋🏻
-- 🥅 2023 Goals: Learn Next.js & Three.js and some related tech and Build some products 💪🏻
 - 🎮 Fun fact: I love to play video games and watching sports ⚾️
+- 🏃 Stay healthy 🏋🏻
 
 <br />
 
 ### :wave: Connect with me:
 
-[<img align="left" alt="bear27kuma.com" width="40px" src="https://user-images.githubusercontent.com/39920490/156489586-f125813b-e344-46d6-9306-f5786684b976.jpg" style="margin-right: 20px;" />](https://bear29ers.github.io/)
-[<img align="left" alt="Yuta Okuma | Wantedly" width="40px" src="https://user-images.githubusercontent.com/39920490/156489528-fdc520d6-10f1-43b6-8bf8-fadf8dcf1a90.jpg" style="margin-right: 20px;" />](https://www.wantedly.com/id/yuta_okuma_b)
-[<img align="left" alt="Yuta Okuma | Facebook" width="40px" src="https://github.com/github/explore/blob/main/topics/facebook/facebook.png?raw=true" style="margin-right: 20px;" />](https://www.facebook.com/kumakuma1129/)
+[<img align="left" alt="bear29ers.com" width="40px" src="https://user-images.githubusercontent.com/39920490/156489586-f125813b-e344-46d6-9306-f5786684b976.jpg" style="margin-right: 20px;" />](https://bear29ers.com)
+[<img align="left" alt="Yuta Okuma | Instagram" width="40px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png?raw=true" style="margin-right: 20px;" />](https://www.instagram.com/bear29ers/)
+[<img align="left" alt="Yuta Okuma | Facebook" width="40px" src="https://github.com/github/explore/blob/main/topics/facebook/facebook.png?raw=true" style="margin-right: 20px;" />](https://www.facebook.com/bear29ers/)
 
-[//]: # '[<img align="left" alt="Yuta Okuma | Instagram" width="40px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png?raw=true" />](https://www.instagram.com/bear_27earl/)'
+<!-- [<img align="left" alt="Yuta Okuma | Wantedly" width="40px" src="https://user-images.githubusercontent.com/39920490/156489528-fdc520d6-10f1-43b6-8bf8-fadf8dcf1a90.jpg" style="margin-right: 20px;" />](https://www.wantedly.com/id/yuta_okuma_b) -->
 
 <br />
 <br />
@@ -24,21 +23,17 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,threejs,react)
 
-![My Skills](https://skillicons.dev/icons?i=jquery,threejs,react,emotion,styledcomponents,materialui,nextjs)
+![My Skills](https://skillicons.dev/icons?i=styledcomponents,emotion,materialui,nextjs,vercel,vue,nuxt,pinia,nodejs,express)
 
-![My Skills](https://skillicons.dev/icons?i=vercel,vue,nuxt,vite,nodejs,express,jest)
+![My Skills](https://skillicons.dev/icons?i=webpack,vite,jest,vitest,babel,regex,npm,pnpm,php,laravel)
 
-![My Skills](https://skillicons.dev/icons?i=regex,webpack,babel,php,laravel,mysql,sqlite)
+![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github,githubactions,aws,firebase,vim,neovim)
 
-![My Skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,gcp,firebase)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,lua,markdown,svg,webstorm,vscode,atom,figma,xd)
 
-![My Skills](https://skillicons.dev/icons?i=vim,neovim,linux,bash,lua,markdown,svg)
-
-![My Skills](https://skillicons.dev/icons?i=idea,vscode,atom,figma,xd,ps,ai)
-
-![My Skills](https://skillicons.dev/icons?i=pr,ae,postman,sentry,codepen,stackoverflow,discord)
+![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,ae,postman,sentry,codepen,stackoverflow,discord,apple)
 
 <br />
 <br />
@@ -56,7 +51,7 @@
 
 ### :four_leaf_clover: Contributions
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <br />
 <br />
