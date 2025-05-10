@@ -60,7 +60,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#187](https://github.com/Bear29ers/bear29ers.com/issues/187) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+1. 💪 Opened PR [#30](https://github.com/Bear29ers/dotfiles/pull/30) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 2. 🔒 Closed issue [#186](https://github.com/Bear29ers/bear29ers.com/issues/186) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 3. 🎉 Merged PR [#188](https://github.com/Bear29ers/bear29ers.com/pull/188) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 4. 💪 Opened PR [#188](https://github.com/Bear29ers/bear29ers.com/pull/188) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
