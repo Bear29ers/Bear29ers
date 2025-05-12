@@ -60,12 +60,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#31](https://github.com/Bear29ers/dotfiles/pull/31) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-2. 💪 Opened PR [#31](https://github.com/Bear29ers/dotfiles/pull/31) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-3. 🎉 Merged PR [#30](https://github.com/Bear29ers/dotfiles/pull/30) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-4. 💪 Opened PR [#30](https://github.com/Bear29ers/dotfiles/pull/30) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-5. ❗ Opened issue [#187](https://github.com/Bear29ers/bear29ers.com/issues/187) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-6. ❗ Opened issue [#186](https://github.com/Bear29ers/bear29ers.com/issues/186) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+1. 🎉 Merged PR [#32](https://github.com/Bear29ers/dotfiles/pull/32) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+2. 💪 Opened PR [#32](https://github.com/Bear29ers/dotfiles/pull/32) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+3. 🎉 Merged PR [#31](https://github.com/Bear29ers/dotfiles/pull/31) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+4. 💪 Opened PR [#31](https://github.com/Bear29ers/dotfiles/pull/31) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+5. 🎉 Merged PR [#30](https://github.com/Bear29ers/dotfiles/pull/30) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+6. 💪 Opened PR [#30](https://github.com/Bear29ers/dotfiles/pull/30) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 7. 💪 Opened PR [#185](https://github.com/Bear29ers/bear29ers.com/pull/185) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 8. ❗ Opened issue [#184](https://github.com/Bear29ers/bear29ers.com/issues/184) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 9. 🚀 Published release [v20250120](https://github.com/Bear29ers/bear29ers.com/releases/tag/v20250120) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
