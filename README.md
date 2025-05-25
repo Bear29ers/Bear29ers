@@ -60,15 +60,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Bear29ers/rails_hello_app/pull/1) in [Bear29ers/rails_hello_app](https://github.com/Bear29ers/rails_hello_app)
-2. 💪 Opened PR [#1](https://github.com/Bear29ers/rails_hello_app/pull/1) in [Bear29ers/rails_hello_app](https://github.com/Bear29ers/rails_hello_app)
-3. 🎉 Merged PR [#34](https://github.com/Bear29ers/dotfiles/pull/34) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-4. 💪 Opened PR [#34](https://github.com/Bear29ers/dotfiles/pull/34) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-5. 🎉 Merged PR [#33](https://github.com/Bear29ers/dotfiles/pull/33) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-6. 💪 Opened PR [#33](https://github.com/Bear29ers/dotfiles/pull/33) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-7. 🎉 Merged PR [#32](https://github.com/Bear29ers/dotfiles/pull/32) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-8. 💪 Opened PR [#32](https://github.com/Bear29ers/dotfiles/pull/32) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-9. 🎉 Merged PR [#31](https://github.com/Bear29ers/dotfiles/pull/31) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-10. 💪 Opened PR [#31](https://github.com/Bear29ers/dotfiles/pull/31) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+1. 💪 Opened PR [#3](https://github.com/Bear29ers/rails_hello_app/pull/3) in [Bear29ers/rails_hello_app](https://github.com/Bear29ers/rails_hello_app)
+2. 🎉 Merged PR [#2](https://github.com/Bear29ers/rails_hello_app/pull/2) in [Bear29ers/rails_hello_app](https://github.com/Bear29ers/rails_hello_app)
+3. 💪 Opened PR [#2](https://github.com/Bear29ers/rails_hello_app/pull/2) in [Bear29ers/rails_hello_app](https://github.com/Bear29ers/rails_hello_app)
+4. 🎉 Merged PR [#1](https://github.com/Bear29ers/rails_hello_app/pull/1) in [Bear29ers/rails_hello_app](https://github.com/Bear29ers/rails_hello_app)
+5. 💪 Opened PR [#1](https://github.com/Bear29ers/rails_hello_app/pull/1) in [Bear29ers/rails_hello_app](https://github.com/Bear29ers/rails_hello_app)
+6. 🎉 Merged PR [#34](https://github.com/Bear29ers/dotfiles/pull/34) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+7. 💪 Opened PR [#34](https://github.com/Bear29ers/dotfiles/pull/34) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+8. 🎉 Merged PR [#33](https://github.com/Bear29ers/dotfiles/pull/33) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+9. 💪 Opened PR [#33](https://github.com/Bear29ers/dotfiles/pull/33) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+10. 🎉 Merged PR [#32](https://github.com/Bear29ers/dotfiles/pull/32) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 
 <!--END_SECTION:activity-->
