@@ -60,15 +60,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#35](https://github.com/Bear29ers/dotfiles/pull/35) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-2. 💪 Opened PR [#35](https://github.com/Bear29ers/dotfiles/pull/35) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-3. 🎉 Merged PR [#4](https://github.com/Bear29ers/rails_toy_app/pull/4) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
-4. 💪 Opened PR [#4](https://github.com/Bear29ers/rails_toy_app/pull/4) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
-5. 🎉 Merged PR [#3](https://github.com/Bear29ers/rails_toy_app/pull/3) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
-6. 💪 Opened PR [#3](https://github.com/Bear29ers/rails_toy_app/pull/3) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
-7. 🎉 Merged PR [#2](https://github.com/Bear29ers/rails_toy_app/pull/2) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
-8. 💪 Opened PR [#2](https://github.com/Bear29ers/rails_toy_app/pull/2) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
-9. 🎉 Merged PR [#1](https://github.com/Bear29ers/rails_toy_app/pull/1) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
-10. 💪 Opened PR [#1](https://github.com/Bear29ers/rails_toy_app/pull/1) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
+1. 🎉 Merged PR [#1](https://github.com/Bear29ers/rails_sample_app/pull/1) in [Bear29ers/rails_sample_app](https://github.com/Bear29ers/rails_sample_app)
+2. 💪 Opened PR [#1](https://github.com/Bear29ers/rails_sample_app/pull/1) in [Bear29ers/rails_sample_app](https://github.com/Bear29ers/rails_sample_app)
+3. 🎉 Merged PR [#35](https://github.com/Bear29ers/dotfiles/pull/35) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+4. 💪 Opened PR [#35](https://github.com/Bear29ers/dotfiles/pull/35) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+5. 🎉 Merged PR [#4](https://github.com/Bear29ers/rails_toy_app/pull/4) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
+6. 💪 Opened PR [#4](https://github.com/Bear29ers/rails_toy_app/pull/4) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
+7. 🎉 Merged PR [#3](https://github.com/Bear29ers/rails_toy_app/pull/3) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
+8. 💪 Opened PR [#3](https://github.com/Bear29ers/rails_toy_app/pull/3) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
+9. 🎉 Merged PR [#2](https://github.com/Bear29ers/rails_toy_app/pull/2) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
+10. 💪 Opened PR [#2](https://github.com/Bear29ers/rails_toy_app/pull/2) in [Bear29ers/rails_toy_app](https://github.com/Bear29ers/rails_toy_app)
 
 <!--END_SECTION:activity-->
