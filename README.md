@@ -1,6 +1,6 @@
 ### Hi there, I'm Yuta 🤟🏻🐻
 
-## I'm a Frontend Developer, and Designer!!
+## I'm a Frontend Developer, and Designer
 
 - 🌱 I’m currently learning Next.js and Three.js 🤣
 - 🎮 Fun fact: I love to play video games and watching sports ⚾️
@@ -8,7 +8,7 @@
 
 <br />
 
-### :wave: Connect with me:
+### :wave: Connect with me
 
 [<img align="left" alt="bear29ers.com" width="40px" src="https://user-images.githubusercontent.com/39920490/156489586-f125813b-e344-46d6-9306-f5786684b976.jpg" style="margin-right: 20px;" />](https://bear29ers.com)
 [<img align="left" alt="Yuta Okuma | Instagram" width="40px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png?raw=true" style="margin-right: 20px;" />](https://www.instagram.com/bear29ers/)
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,threejs,react)
 
@@ -42,7 +42,7 @@
 
 <div style="display: flex;">
     <a href="https://github.com/Bear29ers">
-        <img height="220px;" src="https://github-readme-stats-bear29ers.vercel.app/api?username=Bear29ers&show_icons=true&theme=bear">
+        <img height="220px;" src="https://github-readme-stats-yuta-okumas-projects.vercel.app/api?username=Bear29ers&show_icons=true&theme=bear">
     </a>
 </div>
 
