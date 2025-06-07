@@ -60,15 +60,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Bear29ers/rails_sample_app/pull/2) in [Bear29ers/rails_sample_app](https://github.com/Bear29ers/rails_sample_app)
-2. ❗ Opened issue [#192](https://github.com/Bear29ers/bear29ers.com/issues/192) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-3. ❗ Opened issue [#191](https://github.com/Bear29ers/bear29ers.com/issues/191) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-4. ❗ Opened issue [#190](https://github.com/Bear29ers/bear29ers.com/issues/190) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-5. ❗ Opened issue [#189](https://github.com/Bear29ers/bear29ers.com/issues/189) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-6. 🎉 Merged PR [#37](https://github.com/Bear29ers/dotfiles/pull/37) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-7. 💪 Opened PR [#37](https://github.com/Bear29ers/dotfiles/pull/37) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-8. 💪 Opened PR [#36](https://github.com/Bear29ers/dotfiles/pull/36) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-9. 🎉 Merged PR [#6](https://github.com/Bear29ers/Bear29ers/pull/6) in [Bear29ers/Bear29ers](https://github.com/Bear29ers/Bear29ers)
-10. 💪 Opened PR [#6](https://github.com/Bear29ers/Bear29ers/pull/6) in [Bear29ers/Bear29ers](https://github.com/Bear29ers/Bear29ers)
+1. 🎉 Merged PR [#4](https://github.com/Bear29ers/rails_sample_app/pull/4) in [Bear29ers/rails_sample_app](https://github.com/Bear29ers/rails_sample_app)
+2. 💪 Opened PR [#4](https://github.com/Bear29ers/rails_sample_app/pull/4) in [Bear29ers/rails_sample_app](https://github.com/Bear29ers/rails_sample_app)
+3. 🎉 Merged PR [#3](https://github.com/Bear29ers/rails_sample_app/pull/3) in [Bear29ers/rails_sample_app](https://github.com/Bear29ers/rails_sample_app)
+4. 💪 Opened PR [#3](https://github.com/Bear29ers/rails_sample_app/pull/3) in [Bear29ers/rails_sample_app](https://github.com/Bear29ers/rails_sample_app)
+5. 🎉 Merged PR [#2](https://github.com/Bear29ers/rails_sample_app/pull/2) in [Bear29ers/rails_sample_app](https://github.com/Bear29ers/rails_sample_app)
+6. ❗ Opened issue [#192](https://github.com/Bear29ers/bear29ers.com/issues/192) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+7. ❗ Opened issue [#191](https://github.com/Bear29ers/bear29ers.com/issues/191) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+8. ❗ Opened issue [#190](https://github.com/Bear29ers/bear29ers.com/issues/190) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+9. ❗ Opened issue [#189](https://github.com/Bear29ers/bear29ers.com/issues/189) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+10. 🎉 Merged PR [#37](https://github.com/Bear29ers/dotfiles/pull/37) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 
 <!--END_SECTION:activity-->
