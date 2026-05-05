@@ -60,9 +60,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v20251010](https://github.com/Bear29ers/bear29ers.com/releases/tag/v20251010) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-2. ❌ Labeled PR [#207](undefined) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-3. ❌ Assigned PR [#207](undefined) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+1. 🎉 Merged PR [#43](https://github.com/Bear29ers/dotfiles/pull/43) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+2. 💪 Opened PR [#43](https://github.com/Bear29ers/dotfiles/pull/43) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+3. ℹ️ Assigned PR [#43](https://github.com/Bear29ers/dotfiles/pull/43) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 4. 💪 Opened PR [#207](undefined) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 5. 💪 Opened PR [#42](undefined) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 6. ❌ Assigned PR [#42](undefined) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
