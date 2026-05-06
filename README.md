@@ -60,11 +60,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#43](https://github.com/Bear29ers/dotfiles/pull/43) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-2. 💪 Opened PR [#43](https://github.com/Bear29ers/dotfiles/pull/43) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-3. ℹ️ Assigned PR [#43](https://github.com/Bear29ers/dotfiles/pull/43) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
-4. 💪 Opened PR [#207](undefined) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-5. 💪 Opened PR [#42](undefined) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+1. ℹ️ Assigned PR [#44](https://github.com/Bear29ers/dotfiles/pull/44) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+2. 💪 Opened PR [#44](https://github.com/Bear29ers/dotfiles/pull/44) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+3. 🎉 Merged PR [#43](https://github.com/Bear29ers/dotfiles/pull/43) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+4. 💪 Opened PR [#43](https://github.com/Bear29ers/dotfiles/pull/43) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+5. ℹ️ Assigned PR [#43](https://github.com/Bear29ers/dotfiles/pull/43) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 6. ❌ Assigned PR [#42](undefined) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 7. 💪 Opened PR [#205](https://github.com/Bear29ers/bear29ers.com/pull/205) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 8. 🔒 Closed issue [#202](https://github.com/Bear29ers/bear29ers.com/issues/202) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
