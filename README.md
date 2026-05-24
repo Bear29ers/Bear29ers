@@ -60,15 +60,15 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-2. ℹ️ Labeled PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-3. ℹ️ Labeled PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-4. ℹ️ Assigned PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-5. 💪 Opened PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-6. ℹ️ Labeled issue [#208](https://github.com/Bear29ers/bear29ers.com/issues/208) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-7. ℹ️ Labeled issue [#208](https://github.com/Bear29ers/bear29ers.com/issues/208) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-8. ℹ️ Labeled issue [#208](https://github.com/Bear29ers/bear29ers.com/issues/208) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-9. ℹ️ Assigned issue [#208](https://github.com/Bear29ers/bear29ers.com/issues/208) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
-10. ❗ Opened issue [#208](https://github.com/Bear29ers/bear29ers.com/issues/208) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+1. 🎉 Merged PR [#46](https://github.com/Bear29ers/dotfiles/pull/46) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+2. 💪 Opened PR [#46](https://github.com/Bear29ers/dotfiles/pull/46) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+3. ℹ️ Assigned PR [#46](https://github.com/Bear29ers/dotfiles/pull/46) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+4. ℹ️ Labeled PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+5. ℹ️ Labeled PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+6. ℹ️ Labeled PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+7. ℹ️ Assigned PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+8. 💪 Opened PR [#209](https://github.com/Bear29ers/bear29ers.com/pull/209) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+9. ℹ️ Labeled issue [#208](https://github.com/Bear29ers/bear29ers.com/issues/208) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
+10. ℹ️ Labeled issue [#208](https://github.com/Bear29ers/bear29ers.com/issues/208) in [Bear29ers/bear29ers.com](https://github.com/Bear29ers/bear29ers.com)
 
 <!--END_SECTION:activity-->
