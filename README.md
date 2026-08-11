@@ -60,7 +60,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#48](https://github.com/Bear29ers/dotfiles/pull/48) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
+1. 🎉 Merged PR [#48](https://github.com/Bear29ers/dotfiles/pull/48) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 2. ℹ️ Assigned PR [#48](https://github.com/Bear29ers/dotfiles/pull/48) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 3. 🎉 Merged PR [#47](https://github.com/Bear29ers/dotfiles/pull/47) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
 4. ❌ Closed PR [#36](https://github.com/Bear29ers/dotfiles/pull/36) in [Bear29ers/dotfiles](https://github.com/Bear29ers/dotfiles)
